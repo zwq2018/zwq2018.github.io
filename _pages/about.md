@@ -43,7 +43,7 @@ My research interest includes Large language models, Multi-modal models, and the
 
 
 
-# 📝 Selected Publications 
+# 📝 Selected Publications
 
 
 (# indicates corresponding author)
