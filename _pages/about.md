@@ -138,8 +138,7 @@ My research interest includes Large language models, Multi-modal models, and the
 - Self-exploration for better navigation strategy
 - Action-to-State inverse reasoning process
 </div>
-</div>
-
+</div>  
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv2406</div><img src='images/videollama2.png' alt="sym" width="100%"></div></div>
@@ -155,7 +154,7 @@ Zesen Cheng, Sicong Leng, Hang Zhang, Yifei Xin, Xin Li, Guanzheng Chen, Yongxin
 - Open-source Video-language model
 - Over 20k downloads on Huggingface
 </div>
-
+</div>
 
 - <span style="font-size:small; color:white; background-color:blue">`TASLP 2406`</span> [Specialized Mathematical Solving by a Step-by-Step Expression Chain Generation](https://ieeexplore.ieee.org/document/10552332), **Wenqi Zhang**, Yongliang Shen, Guiyang Hou, Kuangyi Wang, Weiming Lu. [![Github](https://img.shields.io/github/stars/zwq2018/Math-Reasoning-With-PLMs?style=social)](https://github.com/zwq2018/Math-Reasoning-With-PLMs)
 
