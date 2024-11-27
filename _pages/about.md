@@ -202,7 +202,7 @@ Zesen Cheng, Sicong Leng, Hang Zhang, Yifei Xin, Xin Li, Guanzheng Chen, Yongxin
 
 
 
-# 💻 EXPERIENCE
+# 💻 Experience
 - 2024.05 - now, Research Intern, Alibaba DAMO Academy, Supervisor: Xin Li, Lidong Bing
   - Vision-language Pretraining
   - Developing video-language models with colleagues
