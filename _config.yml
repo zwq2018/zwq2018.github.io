@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Wenqi Zhang"
-description              : "The personal homepage of Wenqi Zhang"
+description              : "zhangwenqi@zju.edu.cn"
 repository               : "zwq2018/zwq2018.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,15 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "wenqi Zhang"
+  name             : "Wenqi Zhang"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Zhejiang University "
   location         : "Hangzhou, China"
-  employer         :
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=C6Bmfw8AAAAJ&hl"
   email            : "zhangwenqi@zju.edu.cn"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  Wechat           : "17681825398"
   uri              :
   bitbucket        :
   codepen          :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/zwq2018"
+  github           : "zwq2018"
   google_plus      :
   keybase          :
   instagram        :
@@ -51,7 +51,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://x.com/spicysweet1859"
+  twitter          : "spicysweet1859"
   vine             :
   weibo            :
   xing             :
