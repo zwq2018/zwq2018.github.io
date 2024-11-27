@@ -96,7 +96,7 @@ My research interest includes Large language models, Multi-modal models, and the
 **Wenqi Zhang**, Yongliang Shen, Linjuan Wu, Qiuying Peng, Jun Wang, Yueting Zhuang, Weiming Lu 
 
 [![arXiv](https://img.shields.io/badge/arXiv-Paper-b31b1b.svg)](https://arxiv.org/abs/2401.02009) 
-[![MIT科技评论](https://img.shields.io/badge/MIT_TR-Article-007bff.svg)](https://www.mittrchina.com/news/detail/13106) 
+[![MIT科技评论](https://img.shields.io/badge/MIT科技评论-Article-007bff.svg)](https://www.mittrchina.com/news/detail/13106) 
 [![PaperWeekly](https://img.shields.io/badge/PaperWeekly-Article-007bff.svg)](https://bendi.news/wxnews/cls46zk260023lpnyhyekusue)
 - Investigate LLM's self-reflection ability 
 - Break the blind faith in LLM's self-reflection ability
