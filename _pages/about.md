@@ -19,7 +19,7 @@ redirect_from:
 
 
 # About Me    
-I am a final year Ph.D candidate in the College of Computer Science and Technology at Zhejiang University, under the supervision of Prof. [Weiming Lu](https://person.zju.edu.cn/lwm) and Prof. [Yueting Zhu](https://person.zju.edu.cn/yzhuang). Meanwhile, I am a research intern at Alibaba DAMO Academy, supervised by Xin Li, Lidong Bing. Previously, I received my master's and bachelor's degrees also from Zhejiang University. 
+I am a final year Ph.D candidate in the College of Computer Science and Technology at Zhejiang University, under the supervision of Prof. [Weiming Lu](https://person.zju.edu.cn/lwm) and Prof. [Yueting Zhuang](https://person.zju.edu.cn/yzhuang). Meanwhile, I am a research intern at Alibaba DAMO Academy, supervised by Xin Li, Lidong Bing. Previously, I received my master's and bachelor's degrees also from Zhejiang University. 
 
 # Research Interests  
 My research interest includes Large language models, Multi-modal models, and their applications in the field of Embodied Intelligence. I have published over 10 papers at top international AI conferences for natural language processing.  
@@ -36,7 +36,7 @@ My research interest includes Large language models, Multi-modal models, and the
 - *2024.11*: &nbsp;🎉 I am honored to be awarded the distinguished reviewer award of CIKM 2024. 
 - *2024.10*: &nbsp;🎉 One papers are accepted by NIPS 2024, focusing on benchmarking LLM's task planning ability ([TaskBench](https://arxiv.org/abs/2311.18760)). 
 - *2024.10*: &nbsp;🎉 Two papers are accepted by EMNLP 2024, focusing on multimodal data synthesis ([Multimodal Self-instruct](https://arxiv.org/abs/2407.07053)) and [LLM O1-style reasoning](https://arxiv.org/pdf/2407.00390) 
-- *2024.05*: &nbsp;🎉 Four papers are accepted by ACL 2024 about LLM reflection ([Self-contrast](https://arxiv.org/pdf/2401.02009)), self-evolving agent ([Agent-Pro](https://arxiv.org/pdf/2402.17574)), time perception ([Time-ToM](https://arxiv.org/pdf/2407.01455?)), and [PEFT](https://aclanthology.org/2024.acl-long.222.pdf)).
+- *2024.05*: &nbsp;🎉 Four papers are accepted by ACL 2024 about LLM reflection ([Self-contrast](https://arxiv.org/pdf/2401.02009)), self-evolving agent ([Agent-Pro](https://arxiv.org/pdf/2402.17574)), time perception ([Time-ToM](https://arxiv.org/pdf/2407.01455?)), and [PEFT](https://aclanthology.org/2024.acl-long.222.pdf).
 - *2024.05*: &nbsp;🎉 One papers are accepted by IEEE-ACM Transactions on Audio Speech and Language Processing, focusing on [math reasoning](https://ieeexplore.ieee.org/abstract/document/10552332). 
 - *2023.10*: &nbsp;🎉 [Data-Copilot](https://github.com/zwq2018/Data-Copilot) has been accepted by Outstanding Paper of LLM Agent Workshop@ICLR 2024. 
 - *2023.10*: &nbsp;🎉 Two papers are accepted by EMNLP 2023, focusing on [math reasoning](https://arxiv.org/pdf/2310.09619) and [emotion analysis](https://aclanthology.org/2023.findings-emnlp.842.pdf). 
