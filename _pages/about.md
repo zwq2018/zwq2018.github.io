@@ -196,7 +196,7 @@ Zesen Cheng, Sicong Leng, Hang Zhang, Yifei Xin, Xin Li, Guanzheng Chen, Yongxin
 
 
 # 📖 Educations
-- 2021.09 - 2025.06, Ph.D., Zhejiang University, China, Advisor: Prof. [Weiming Lu](https://person.zju.edu.cn/lwm), Prof. [Yueting Zhu](https://person.zju.edu.cn/yzhuang)
+- 2021.09 - 2025.06, Ph.D., Zhejiang University, China, Advisor: Prof. [Weiming Lu](https://person.zju.edu.cn/lwm), Prof. [Yueting Zhuang](https://person.zju.edu.cn/yzhuang)
 - 2015.09 - 2018.06, M.S., Zhejiang University, China, Advisor: Prof. [Kaichen Song](https://person.zju.edu.cn/kcsong)
 - 2009.09 - 2013.06, B.S., Zhejiang University, China, Advisor: Prof. [Hong Zhou](https://person.zju.edu.cn/zhouhong)
 
