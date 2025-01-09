@@ -56,12 +56,12 @@ My research interest includes Large language models, Multi-modal models, and the
 
 [![arXiv](https://img.shields.io/badge/arXiv-Paper-b31b1b.svg)](https://www.arxiv.org/abs/2501.00958) 
 [![Github](https://img.shields.io/github/stars/DAMO-NLP-SG/multimodal_textbook?style=social&label=stars)](https://github.com/DAMO-NLP-SG/multimodal_textbook)
-[![Hugginface Dataset](https://img.shields.io/badge/%F0%9F%A4%97-Dataset-blue)](https://huggingface.co/datasets/DAMO-NLP-SG/multimodal_textbook)
+[![Huggingface](https://img.shields.io/badge/HuggingFace-Datasets-orange.svg)](https://huggingface.co/datasets/DAMO-NLP-SG/multimodal_textbook)
 [![Pages](https://img.shields.io/badge/Project-Page-0F88EB.svg)](https://multimodal-interleaved-textbook.github.io/)
 [![知乎](https://img.shields.io/badge/知乎-Article-007bff.svg)](https://zhuanlan.zhihu.com/p/16512014215) 
 - Interleaved image-text pretraining corpus from instructional videos
-- 22000 hours of video (2.5 years) 
-- Textbook covers six disciplines, e.g., mathematics, physics, and chemistry, and 3900 knowledge points
+- All the images and text are extracted from online instructional videos (22,000 class hours), covering multiple fundamental subjects, e.g., mathematics, physics, and chemistry.
+- Our textbook corpus providing a more coherent context and richer knowledge for image-text aligning.
 - More than 700 downloads within one week
 </div>
 </div>
