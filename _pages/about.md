@@ -48,6 +48,29 @@ My research interest includes Large language models, Multi-modal models, and the
 
 (# indicates corresponding author)
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Outstanding Paper@ICLR LLM Agent workshop</div><img src='images/logo1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[2.5 Years in Class: A Multimodal Textbook for Vision-Language Pretraining](https://www.arxiv.org/abs/2501.00958)  
+**Wenqi Zhang**, Hang Zhang, Xin Li, Jiashuo Sun, Yongliang Shen, Weiming Lu, Deli Zhao, Yueting Zhuang, Lidong Bing
+
+[![arXiv](https://img.shields.io/badge/arXiv-Paper-b31b1b.svg)](https://www.arxiv.org/abs/2501.00958) 
+[![Github](https://img.shields.io/github/stars/DAMO-NLP-SG/multimodal_textbook?style=social&label=stars)](https://github.com/DAMO-NLP-SG/multimodal_textbook)
+[![Hugginface Dataset](https://img.shields.io/badge/%F0%9F%A4%97-Open%20in%20Spaces-blue)](https://huggingface.co/datasets/DAMO-NLP-SG/multimodal_textbook)
+[![Pages](https://img.shields.io/badge/Page-Video-0F88EB.svg)](https://multimodal-interleaved-textbook.github.io/)
+[![知乎](https://img.shields.io/badge/知乎-Article-007bff.svg)](https://zhuanlan.zhihu.com/p/16512014215) 
+- Interleaved image-text pretraining corpus from instructional videos
+- 22000 hours of video (2.5 years) 
+- Textbook covers six disciplines, e.g., mathematics, physics, and chemistry, and 3900 knowledge points
+- More than 700 downloads within one week
+</div>
+</div>
+
+
+
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Outstanding Paper@ICLR LLM Agent workshop</div><img src='images/data-copilot.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
