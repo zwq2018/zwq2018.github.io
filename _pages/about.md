@@ -49,22 +49,7 @@ My research interest includes Large language models, Multi-modal models, and the
 
 (# indicates corresponding author)
 
-
-<div class="paper-box">
-  <div class="paper-box-image">
-    <div>
-      <div class="badge">Huggingface Daily Paper Top1 @20250103</div>
-      <img src="images/logo.png" alt="sym" width="100%">
-    </div>
-  </div>
-  <div class="paper-box-image">
-    <div>
-      <div class="badge">Rank #2 @Huggingface Weekly Trending</div>
-      <img src="images/logo.png" alt="sym" width="100%">
-    </div>
-  </div>
-</div>
-
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Daily Paper Top1 & Rank#2@Huggingaface Trending</div><img src='images/logo.png' alt="sym" width="100%"></div></div>
 
 
 <div class='paper-box-text' markdown="1">
