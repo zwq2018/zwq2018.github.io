@@ -33,7 +33,7 @@ My research interest includes Large language models, Multi-modal models, and the
 
 
 # 🔥 News
-- *2025.01*: &nbsp;🎉 Our Multimodal Textbook Ranked 2nd in Huggingface Trending, Over 7k downloads in two Weeks
+- *2025.01*: &nbsp;🎉 Our Multimodal Textbook ranks #2 in Huggingface Trending, over 7k downloads in just two weeks.
 - *2024.11*: &nbsp;🎉 I am honored to be awarded the distinguished reviewer award of CIKM 2024. 
 - *2024.10*: &nbsp;🎉 One papers are accepted by NIPS 2024, focusing on benchmarking LLM's task planning ability ([TaskBench](https://arxiv.org/abs/2311.18760)). 
 - *2024.10*: &nbsp;🎉 Two papers are accepted by EMNLP 2024, focusing on multimodal data synthesis ([Multimodal Self-instruct](https://arxiv.org/abs/2407.07053)) and [LLM O1-style reasoning](https://arxiv.org/pdf/2407.00390) 
@@ -50,6 +50,8 @@ My research interest includes Large language models, Multi-modal models, and the
 (# indicates corresponding author)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Huggingaface Daily Paper Top1@20250103</div><img src='images/logo.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Top2@Huggingaface Trending</div><img src='images/logo.png' alt="sym" width="100%"></div></div>
+
 <div class='paper-box-text' markdown="1">
 
 [2.5 Years in Class: A Multimodal Textbook for Vision-Language Pretraining](https://www.arxiv.org/abs/2501.00958)  
