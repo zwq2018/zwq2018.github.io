@@ -33,6 +33,7 @@ My research interest includes Large language models, Multi-modal models, and the
 
 
 # 🔥 News
+- *2025.01*: &nbsp;🎉 Our Multimodal Textbook Ranked 2nd in Huggingface Trending, Over 7k downloads in two Weeks
 - *2024.11*: &nbsp;🎉 I am honored to be awarded the distinguished reviewer award of CIKM 2024. 
 - *2024.10*: &nbsp;🎉 One papers are accepted by NIPS 2024, focusing on benchmarking LLM's task planning ability ([TaskBench](https://arxiv.org/abs/2311.18760)). 
 - *2024.10*: &nbsp;🎉 Two papers are accepted by EMNLP 2024, focusing on multimodal data synthesis ([Multimodal Self-instruct](https://arxiv.org/abs/2407.07053)) and [LLM O1-style reasoning](https://arxiv.org/pdf/2407.00390) 
@@ -62,7 +63,7 @@ My research interest includes Large language models, Multi-modal models, and the
 - Interleaved image-text pretraining corpus from instructional videos
 - All the images and text are extracted from online instructional videos (22,000 class hours), covering multiple fundamental subjects, e.g., mathematics, physics, and chemistry.
 - Our textbook corpus providing a more coherent context and richer knowledge for image-text aligning.
-- More than 700 downloads within one week
+- More than 7000 downloads within two weeks (Rank #2 in Huggingface Trending)
 </div>
 </div>
 
