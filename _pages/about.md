@@ -50,9 +50,9 @@ My research interest includes Large language models, Multi-modal models, and the
 (# indicates corresponding author)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Huggingaface Daily Paper Top1@20250103</div><img src='images/logo.png' alt="sym" width="100%"></div></div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Top2@Huggingaface Trending</div><img src='images/logo.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Rank#2 @Huggingaface Trending</div><img src='images/logo.png' alt="sym" width="100%"></div></div>
 
-<div class='paper-box-text' markdown="1">
+<div class='paper-box-text' markdown="2">
 
 [2.5 Years in Class: A Multimodal Textbook for Vision-Language Pretraining](https://www.arxiv.org/abs/2501.00958)  
 **Wenqi Zhang**, Hang Zhang, Xin Li, Jiashuo Sun, Yongliang Shen, Weiming Lu, Deli Zhao, Yueting Zhuang, Lidong Bing
