@@ -33,6 +33,7 @@ My research interest includes Large language models, Multi-modal models, and the
 
 
 # 🔥 News
+- *2025.03*: &nbsp;🎉 We release an Embodied Reasoning model. [Embodied-Reasoner: Synergizing Visual Search, Reasoning, and Action for Embodied Interactive Tasks](https://arxiv.org/abs/2503.21696)
 - *2025.01*: &nbsp;🎉 Our Multimodal Textbook ranks #2 in Huggingface Trending, over 7k downloads in just two weeks.
 - *2024.11*: &nbsp;🎉 I am honored to be awarded the distinguished reviewer award of CIKM 2024. 
 - *2024.10*: &nbsp;🎉 One papers are accepted by NIPS 2024, focusing on benchmarking LLM's task planning ability ([TaskBench](https://arxiv.org/abs/2311.18760)). 
@@ -65,7 +66,28 @@ My research interest includes Large language models, Multi-modal models, and the
 - Interleaved image-text pretraining corpus from instructional videos
 - All the images and text are extracted from online instructional videos (22,000 class hours), covering multiple fundamental subjects, e.g., mathematics, physics, and chemistry.
 - Our textbook corpus providing a more coherent context and richer knowledge for image-text aligning.
-- More than 7000 downloads within two weeks (Rank #2 in Huggingface Trending)
+- More than 20,000 downloads within one month (Rank #2 in Huggingface Trending)
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Embodied Reasoning</div><img src='images/fig0.png' alt="sym" width="100%"></div></div>
+
+
+<div class='paper-box-text' markdown="1">
+
+[Embodied-Reasoner: Synergizing Visual Search, Reasoning, and Action for Embodied Interactive Tasks
+](https://arxiv.org/abs/2503.21696)  
+**Wenqi Zhang**, Mengna Wang, Gangao Liu, Xu Huixin, Yiwei Jiang, Yongliang Shen, Guiyang Hou, Zhe Zheng, Hang Zhang, Xin Li, Weiming Lu, Peng Li, Yueting Zhuang
+
+[![arXiv](https://img.shields.io/badge/arXiv-Paper-b31b1b.svg)](https://arxiv.org/abs/2503.21696) 
+[![Github](https://img.shields.io/github/stars/DAMO-NLP-SG/multimodal_textbook?style=social&label=stars)](https://github.com/zwq2018/embodied_reasoner)
+[![Huggingface](https://img.shields.io/badge/HuggingFace-Datasets-orange.svg)](https://huggingface.co/datasets/zwq2018/embodied_reasoner)
+[![Pages](https://img.shields.io/badge/Project-Page-0F88EB.svg)](https://embodied-reasoner.github.io/)
+- O1-style Embodied Reasoning Model 
+- Interactive Embodied Scenario and Long-horizon Tasks
+- Autonomous Environment Exploration, Hidden Object Search, and Deep Reflection
+- Open-source dataset: 9.3K *Observation-Reasoning-Action* interleaved trajectories with 64K images
 </div>
 </div>
 
@@ -246,5 +268,8 @@ Zesen Cheng, Sicong Leng, Hang Zhang, Yifei Xin, Xin Li, Guanzheng Chen, Yongxin
 
 
 # 📂 Services
+Area Chair:
+- ACL ARR2025  
+
 PC Member: 
-- ACL 2023-2024, EMNLP 2023-2024, NAACL 2023-2024, ICLR 2024, CIKM 2024, WWW 2024, ACM-MM 2024
+- ACL 2023-2024, EMNLP 2023-2024, NAACL 2023-2024, ICLR 2024, CIKM 2024, WWW 2024, ACM-MM 2024, IJCAI2025, ICCV2025
