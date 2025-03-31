@@ -71,7 +71,7 @@ My research interest includes Large language models, Multi-modal models, and the
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Embodied Reasoning</div><img src='images/fig0.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Embodied Reasoning</div><video src='images/video_en_subtitle.mp4' alt="sym" width="100%" controls></video></div></div>
 
 
 <div class='paper-box-text' markdown="1">
