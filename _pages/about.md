@@ -50,8 +50,7 @@ My research interest includes Large language models, Multi-modal models, and the
 
 (# indicates corresponding author)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Daily Paper Top1 & Rank#2@Huggingaface Trending</div><img src='images/logo.png' alt="sym" width="100%"></div></div>
-
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Daily Paper Top1 & Rank#2@Huggingaface Trending</div><video src='images/multimodal textbook.mp4' alt="sym" width="100%" controls></video></div></div>
 
 <div class='paper-box-text' markdown="1">
 
@@ -81,7 +80,7 @@ My research interest includes Large language models, Multi-modal models, and the
 **Wenqi Zhang**, Mengna Wang, Gangao Liu, Xu Huixin, Yiwei Jiang, Yongliang Shen, Guiyang Hou, Zhe Zheng, Hang Zhang, Xin Li, Weiming Lu, Peng Li, Yueting Zhuang
 
 [![arXiv](https://img.shields.io/badge/arXiv-Paper-b31b1b.svg)](https://arxiv.org/abs/2503.21696) 
-[![Github](https://img.shields.io/github/stars/DAMO-NLP-SG/multimodal_textbook?style=social&label=stars)](https://github.com/zwq2018/embodied_reasoner)
+[![Github](https://img.shields.io/github/stars/zwq2018/embodied_reasoner?style=social&label=stars)](https://github.com/zwq2018/embodied_reasoner)
 [![Huggingface](https://img.shields.io/badge/HuggingFace-Datasets-orange.svg)](https://huggingface.co/datasets/zwq2018/embodied_reasoner)
 [![Pages](https://img.shields.io/badge/Project-Page-0F88EB.svg)](https://embodied-reasoner.github.io/)
 - O1-style Embodied Reasoning Model 
