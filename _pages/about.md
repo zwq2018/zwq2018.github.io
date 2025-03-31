@@ -95,7 +95,7 @@ My research interest includes Large language models, Multi-modal models, and the
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Outstanding Paper@ICLR LLM Agent workshop</div><img src='images/video1.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Outstanding Paper@ICLR LLM Agent workshop</div><img src='images/video1.GIF' alt="sym" width="100%"></div></div>
 
 <div class='paper-box-text' markdown="1">
 
