@@ -95,7 +95,8 @@ My research interest includes Large language models, Multi-modal models, and the
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Outstanding Paper@ICLR LLM Agent workshop</div><img src='images/data-copilot.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Outstanding Paper@ICLR LLM Agent workshop</div><img src='images/video1.gif' alt="sym" width="100%"></div></div>
+
 <div class='paper-box-text' markdown="1">
 
 [Data-Copilot: Bridging Billions of Data and Humans with Autonomous Workflow](https://arxiv.org/abs/2306.07209)  
