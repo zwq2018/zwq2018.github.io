@@ -51,7 +51,7 @@ My research interest includes Large language models, Multi-modal models, and the
 
 (# indicates corresponding author)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Daily Paper Top1 & Rank#2@Huggingaface Trending</div><video src='images/multimodal textbook.mp4' alt="sym" width="100%" controls></video></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><video src='images/multimodal textbook.mp4' alt="sym" width="100%" controls></video></div></div>
 
 <div class='paper-box-text' markdown="1">
 
@@ -85,6 +85,9 @@ My research interest includes Large language models, Multi-modal models, and the
 [![Huggingface](https://img.shields.io/badge/HuggingFace-Datasets-orange.svg)](https://huggingface.co/datasets/zwq2018/embodied_reasoner)
 [![Pages](https://img.shields.io/badge/Project-Page-0F88EB.svg)](https://embodied-reasoner.github.io/)
 [![B站视频](https://img.shields.io/badge/B%E7%AB%99-%E8%A7%86%E9%A2%91-ff69b4.svg)](https://www.bilibili.com/video/BV1Cs7Hz4ETk?t=28.7)
+[![机器之心](https://img.shields.io/badge/机器之心-Article-007bff.svg)](https://www.sohu.com/a/889469911_129720)
+
+
 
 - O1-style Embodied Reasoning Model 
 - Interactive Embodied Scenario and Long-horizon Tasks
@@ -265,7 +268,7 @@ Zesen Cheng, Sicong Leng, Hang Zhang, Yifei Xin, Xin Li, Guanzheng Chen, Yongxin
 
 
 # 💬 Invited Talks
-- 2025.05, Embodied-Reasoner #智猩猩 [\[video\]](https://www.bilibili.com/video/BV1Cs7Hz4ETk?t=28.7)
+- 2025.05, Embodied-Reasoner @智猩猩 [\[video\]](https://www.bilibili.com/video/BV1Cs7Hz4ETk?t=28.7)
 - 2024.10, Multimodal Self-instruct  @AITime [\[video\]](https://www.bilibili.com/video/BV1JuSqYKEnH/?spm_id_from=333.337.search-card.all.click&vd_source=818fc4816fcb6a1d8c82455cd7851b48)
 - 2024.08, LLM Agent @MetaGPT Team (DeepWisdom)
 - 2024.08, How to Apply an LLM to Data Science@觅炽科技
