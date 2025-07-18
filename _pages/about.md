@@ -33,15 +33,16 @@ My research interest includes Large language models, Multi-modal models, and the
 
 
 # 🔥 News
+- *2025.06*: &nbsp;🎉 Our Multimodal Textbook is accepted by ICCV 2025 [Multimodal Textbook](https://www.arxiv.org/abs/2501.00958), ranks #2 in Huggingface Trending, over 24k downloads in Huggingface.
+- *2025.05*: &nbsp;🎉 Two papers are accepted by ACL 2025, about SQL generation ([STaR-SQL](https://arxiv.org/pdf/2502.13550)) and Social Reasoning LLM.
 - *2025.03*: &nbsp;🎉 We release an Embodied Reasoning model. [Embodied-Reasoner: Synergizing Visual Search, Reasoning, and Action for Embodied Interactive Tasks](https://arxiv.org/abs/2503.21696)
-- *2025.01*: &nbsp;🎉 Our Multimodal Textbook ranks #2 in Huggingface Trending, over 7k downloads in just two weeks.
 - *2024.11*: &nbsp;🎉 I am honored to be awarded the distinguished reviewer award of CIKM 2024. 
 - *2024.10*: &nbsp;🎉 One papers are accepted by NIPS 2024, focusing on benchmarking LLM's task planning ability ([TaskBench](https://arxiv.org/abs/2311.18760)). 
 - *2024.10*: &nbsp;🎉 Two papers are accepted by EMNLP 2024, focusing on multimodal data synthesis ([Multimodal Self-instruct](https://arxiv.org/abs/2407.07053)) and [LLM O1-style reasoning](https://arxiv.org/pdf/2407.00390) 
 - *2024.05*: &nbsp;🎉 Four papers are accepted by ACL 2024 about LLM reflection ([Self-contrast](https://arxiv.org/pdf/2401.02009)), self-evolving agent ([Agent-Pro](https://arxiv.org/pdf/2402.17574)), time perception ([Time-ToM](https://arxiv.org/pdf/2407.01455?)), and [PEFT](https://aclanthology.org/2024.acl-long.222.pdf).
 - *2024.05*: &nbsp;🎉 One papers are accepted by IEEE-ACM Transactions on Audio Speech and Language Processing, focusing on [math reasoning](https://ieeexplore.ieee.org/abstract/document/10552332). 
 - *2023.10*: &nbsp;🎉 [Data-Copilot](https://github.com/zwq2018/Data-Copilot) has been accepted by Outstanding Paper of LLM Agent Workshop@ICLR 2024. 
-- *2023.10*: &nbsp;🎉 Two papers are accepted by EMNLP 2023, focusing on [math reasoning](https://arxiv.org/pdf/2310.09619) and [emotion analysis](https://aclanthology.org/2023.findings-emnlp.842.pdf). 
+
 
 
 
@@ -83,6 +84,8 @@ My research interest includes Large language models, Multi-modal models, and the
 [![Github](https://img.shields.io/github/stars/zwq2018/embodied_reasoner?style=social&label=stars)](https://github.com/zwq2018/embodied_reasoner)
 [![Huggingface](https://img.shields.io/badge/HuggingFace-Datasets-orange.svg)](https://huggingface.co/datasets/zwq2018/embodied_reasoner)
 [![Pages](https://img.shields.io/badge/Project-Page-0F88EB.svg)](https://embodied-reasoner.github.io/)
+[![B站视频](https://img.shields.io/badge/B%E7%AB%99-%E8%A7%86%E9%A2%91-ff69b4.svg)](https://www.bilibili.com/video/BV1Cs7Hz4ETk?t=28.7)
+
 - O1-style Embodied Reasoning Model 
 - Interactive Embodied Scenario and Long-horizon Tasks
 - Autonomous Environment Exploration, Hidden Object Search, and Deep Reflection
@@ -262,6 +265,7 @@ Zesen Cheng, Sicong Leng, Hang Zhang, Yifei Xin, Xin Li, Guanzheng Chen, Yongxin
 
 
 # 💬 Invited Talks
+- 2025.05, Embodied-Reasoner #智猩猩 [\[video\]](https://www.bilibili.com/video/BV1Cs7Hz4ETk?t=28.7)
 - 2024.10, Multimodal Self-instruct  @AITime [\[video\]](https://www.bilibili.com/video/BV1JuSqYKEnH/?spm_id_from=333.337.search-card.all.click&vd_source=818fc4816fcb6a1d8c82455cd7851b48)
 - 2024.08, LLM Agent @MetaGPT Team (DeepWisdom)
 - 2024.08, How to Apply an LLM to Data Science@觅炽科技
