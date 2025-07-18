@@ -240,6 +240,7 @@ Zesen Cheng, Sicong Leng, Hang Zhang, Yifei Xin, Xin Li, Guanzheng Chen, Yongxin
 
 
 # 🎖 Honors and Awards
+- **2025.06** Huawei TopMinds (华为天才少年)
 - **2024.10** National Scholarship (Top 1 %)
 - **2024.10** Distinguished Reviewer Award @ 33rd ACM International Conference on Information and Knowledge Management (CIKM 2024)
 - **2024.05** Outstanding Paper @ ICLR2024 LLM Agent Workshop (TOP 3%)
@@ -276,7 +277,7 @@ Zesen Cheng, Sicong Leng, Hang Zhang, Yifei Xin, Xin Li, Guanzheng Chen, Yongxin
 
 # 📂 Services
 Area Chair:
-- ACL ARR2025  
+- ACL, EMNLP (ACL-ARR) 2025  
 
 PC Member: 
-- ACL 2023-2024, EMNLP 2023-2024, NAACL 2023-2024, ICLR 2024, CIKM 2024, WWW 2024, ACM-MM 2024, IJCAI2025, ICCV2025
+- NIPS 2025, ICCV2025, IJCAI2025, ACL 2023-2025, ACM-MM 2024, ICLR 2024, WWW 2024, EMNLP 2023-2025, CIKM 2024
