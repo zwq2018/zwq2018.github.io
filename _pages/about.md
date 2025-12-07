@@ -19,21 +19,23 @@ redirect_from:
 
 
 # About Me    
-I am a final year Ph.D candidate in the College of Computer Science and Technology at Zhejiang University, under the supervision of Prof. [Weiming Lu](https://person.zju.edu.cn/lwm) and Prof. [Yueting Zhuang](https://person.zju.edu.cn/yzhuang). Meanwhile, I am a research intern at Alibaba DAMO Academy, supervised by Xin Li, Lidong Bing. Previously, I received my master's and bachelor's degrees also from Zhejiang University. 
+I am a ZJU100 Young Professor at Zhejiang University. I received my Ph.D. from Zhejiang University under the supervision of Prof. [Weiming Lu](https://person.zju.edu.cn/lwm) and Prof. [Yueting Zhuang](https://person.zju.edu.cn/yzhuang). During my doctoral studies, I was a research intern at Alibaba DAMO Academy, supervised by Xin Li and Lidong Bing. Previously, I received my master's and bachelor's degrees also from Zhejiang University. 
 
 # Research Interests  
-My research interest includes Large language models, Multi-modal models, and their applications in the field of Embodied Intelligence. I have published over 10 papers at top international AI conferences for natural language processing.  
+My research focuses on Large Language Models, Multi-modal Models, and their applications in Embodied Intelligence. I have published over 40 papers at top international AI conferences.
 
-- LLM Agent: LLM-powered autonomous agents, particularly in their cognitive reasoning, task-planning and self-evolution capabilities.
+- **LLM Agent**: LLM-powered autonomous agents, particularly in autonomous task execution, reasoning, and self-evolution through environmental interaction.
 
-- Embodied Intelligence: Combine VLM, robot control, and reinforcement learning to build an embodied robot for daily tasks, e.g. obstacle avoidance, navigation, and manipulation.
+- **Spatial Intelligence**: Enhancing models' spatial cognition capabilities to better perceive, understand, reason, and interact within 3D environments, serving as the embodied brain.
 
-- AI for Education: Deploying LLMs for fundamental education, such as mathematics and psychology, to improve the performance of LLMs in education domains.  
+- **Behavioral Intelligence**: Developing action generation models, such as Vision-Language-Action models (VLAs), for action generation and imitation, enabling flexible and autonomous navigation and manipulation—serving as the embodied cerebellum.
+
+- **Social Intelligence**: Developing emotionally intelligent LLMs that not only excel in reasoning but also understand human intentions, emotions, and goals—enhancing their social capabilities for more empathetic and human-centered interactions.
 
 
 
 # 🔥 News
-- *2025.06*: &nbsp;🎉 Our Multimodal Textbook is accepted by ICCV 2025 [Multimodal Textbook](https://www.arxiv.org/abs/2501.00958), ranks #2 in Huggingface Trending, over 24k downloads in Huggingface.
+- *2025.06*: &nbsp;🎉 Our Multimodal Textbook is accepted by ICCV 2025 Highlight [Multimodal Textbook](https://www.arxiv.org/abs/2501.00958), ranks #2 in Huggingface Trending, over 24k downloads in Huggingface.
 - *2025.05*: &nbsp;🎉 Two papers are accepted by ACL 2025, about SQL generation ([STaR-SQL](https://arxiv.org/pdf/2502.13550)) and Social Reasoning LLM.
 - *2025.03*: &nbsp;🎉 We release an Embodied Reasoning model. [Embodied-Reasoner: Synergizing Visual Search, Reasoning, and Action for Embodied Interactive Tasks](https://arxiv.org/abs/2503.21696)
 - *2024.11*: &nbsp;🎉 I am honored to be awarded the distinguished reviewer award of CIKM 2024. 
@@ -242,7 +244,7 @@ Zesen Cheng, Sicong Leng, Hang Zhang, Yifei Xin, Xin Li, Guanzheng Chen, Yongxin
 # 🎖 Honors and Awards
 - **2025.06** Huawei TopMinds (华为天才少年)
 - **2024.10** National Scholarship (Top 1 %)
-- **2024.10** Distinguished Reviewer Award @ 33rd ACM International Conference on Information and Knowledge Management (CIKM 2024)
+- **2024.10** Distinguished Reviewer Award @33rd ACM International Conference on Information and Knowledge Management (CIKM 2024)
 - **2024.05** Outstanding Paper @ ICLR2024 LLM Agent Workshop (TOP 3%)
 - **2021-2022**, **2022-2023**, **2023-2024** Excellent Postgraduate Student Scholarship of Zhejiang University
 - **2013.09** First Prize of Zhejiang University Research and Innovation Scholarship
