@@ -32,7 +32,7 @@ My research focuses on Large Language Models, Multi-modal Models, and their appl
 
 - **Social Intelligence**: Developing emotionally intelligent LLMs that not only excel in reasoning but also understand human intentions, emotions, and goals—enhancing their social capabilities for more empathetic and human-centered interactions.
 
-
+<img src='images/lab_goal.png' alt="Lab Goal" width="100%">
 
 # 🔥 News
 - *2025.06*: &nbsp;🎉 Our Multimodal Textbook is accepted by ICCV 2025 Highlight [Multimodal Textbook](https://www.arxiv.org/abs/2501.00958), ranks #2 in Huggingface Trending, over 24k downloads in Huggingface.
