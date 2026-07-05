@@ -19,7 +19,7 @@ redirect_from:
 
 
 # About Me    
-I am a ZJU100 Young Professor at Zhejiang University. I received my Ph.D. from Zhejiang University under the supervision of Prof. [Weiming Lu](https://person.zju.edu.cn/lwm) and Prof. [Yueting Zhuang](https://person.zju.edu.cn/yzhuang). During my doctoral studies, I was a research intern at Alibaba DAMO Academy, supervised by Xin Li and Lidong Bing. Previously, I received my master's and bachelor's degrees also from Zhejiang University. 
+I am a ZJU100 Young Professor at Zhejiang University.
 
 # Research Interests  
 My research focuses on Large Language Models, Multi-modal Models, and their applications in Embodied Intelligence. I have published over 40 papers at top international AI conferences.
@@ -247,15 +247,6 @@ Zesen Cheng, Sicong Leng, Hang Zhang, Yifei Xin, Xin Li, Guanzheng Chen, Yongxin
 - **2024.10** Distinguished Reviewer Award @33rd ACM International Conference on Information and Knowledge Management (CIKM 2024)
 - **2024.05** Outstanding Paper @ ICLR2024 LLM Agent Workshop (TOP 3%)
 - **2021-2022**, **2022-2023**, **2023-2024** Excellent Postgraduate Student Scholarship of Zhejiang University
-- **2013.09** First Prize of Zhejiang University Research and Innovation Scholarship
-- **2012.11** First Prize of Zhejiang Province "Challenge Cup" College Student Business Plan Competition
-- **2012.05** The Best Project of Zhejiang University "Challenge Cup" College Student Business Plan Competition
-
-
-# 📖 Educations
-- 2021.09 - 2025.06, Ph.D., Zhejiang University, China, Advisor: Prof. [Weiming Lu](https://person.zju.edu.cn/lwm), Prof. [Yueting Zhuang](https://person.zju.edu.cn/yzhuang)
-- 2015.09 - 2018.06, M.S., Zhejiang University, China, Advisor: Prof. [Kaichen Song](https://person.zju.edu.cn/kcsong)
-- 2009.09 - 2013.06, B.S., Zhejiang University, China, Advisor: Prof. [Hong Zhou](https://person.zju.edu.cn/zhouhong)
 
 
 
