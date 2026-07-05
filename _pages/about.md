@@ -19,7 +19,7 @@ redirect_from:
 
 
 # About Me    
-I am a ZJU100 Young Professor at Zhejiang University.
+I am a ZJU100 Young Professor at Zhejiang University. Previously, I interned at Alibaba DAMO Academy and worked at the Advanced Institute of Information Technology, Peking University.
 
 # Research Interests  
 My research focuses on Large Language Models, Multi-modal Models, and their applications in Embodied Intelligence. I have published over 40 papers at top international AI conferences.
