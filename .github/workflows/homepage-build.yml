@@ -1,0 +1,29 @@
+name: Homepage build
+
+on:
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.1'
+          bundler-cache: true
+      - name: Build with the existing GitHub Pages dependencies
+        run: bundle exec jekyll build --safe --trace
+        env:
+          JEKYLL_ENV: production
+      - name: Check homepage and preserved archive
+        run: |
+          test -f _site/index.html
+          test -f _site/archive/index.html
+          test -f _site/assets/css/homepage.css
+          test -f _site/assets/js/homepage.js
+          node --check assets/js/homepage.js

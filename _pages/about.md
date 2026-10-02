@@ -1,11 +1,8 @@
 ---
-permalink: /
-title: ""
+permalink: /archive/
+title: "Academic Archive"
 excerpt: ""
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
 {% if site.google_scholar_stats_use_cdn %}
@@ -19,6 +16,9 @@ redirect_from:
 
 
 # About Me    
+
+[← Back to the updated homepage](/) · This archive preserves the earlier academic record. See the homepage for recent research and current updates.
+
 I am a ZJU100 Young Professor at Zhejiang University. Previously, I interned at Alibaba DAMO Academy and worked at the Advanced Institute of Information Technology, Peking University.
 
 # Research Interests  
@@ -32,7 +32,7 @@ My research focuses on Large Language Models, Multi-modal Models, and their appl
 
 - **Social Intelligence**: Developing emotionally intelligent LLMs that not only excel in reasoning but also understand human intentions, emotions, and goals—enhancing their social capabilities for more empathetic and human-centered interactions.
 
-<img src='images/lab_goal.png' alt="Lab Goal" width="80%">
+<img src='/images/lab_goal.png' alt="Lab Goal" width="80%">
 
 # 🔥 News
 - *2025.06*: &nbsp;🎉 Our Multimodal Textbook is accepted by ICCV 2025 Highlight [Multimodal Textbook](https://www.arxiv.org/abs/2501.00958), ranks #2 in Huggingface Trending, over 24k downloads in Huggingface.
@@ -48,12 +48,14 @@ My research focuses on Large Language Models, Multi-modal Models, and their appl
 
 
 
+<span id="selected-publications"></span>
+
 # 📝 Selected Publications
 
 
 (# indicates corresponding author)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><video src='images/multimodal textbook.mp4' alt="sym" width="100%" controls></video></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><video src='/images/multimodal textbook.mp4' alt="sym" width="100%" controls></video></div></div>
 
 <div class='paper-box-text' markdown="1">
 
@@ -73,7 +75,7 @@ My research focuses on Large Language Models, Multi-modal Models, and their appl
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Embodied Reasoning</div><video src='images/video_en_subtitle.mp4' alt="sym" width="100%" controls></video></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Embodied Reasoning</div><video src='/images/video_en_subtitle.mp4' alt="sym" width="100%" controls></video></div></div>
 
 
 <div class='paper-box-text' markdown="1">
@@ -103,7 +105,7 @@ My research focuses on Large Language Models, Multi-modal Models, and their appl
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Outstanding Paper@ICLR LLM Agent workshop</div><img src='images/video1.GIF' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Outstanding Paper@ICLR LLM Agent workshop</div><img src='/images/video1.GIF' alt="sym" width="100%"></div></div>
 
 <div class='paper-box-text' markdown="1">
 
@@ -124,7 +126,7 @@ My research focuses on Large Language Models, Multi-modal Models, and their appl
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2024 Oral</div><img src='images/multimodal self-instruct.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2024 Oral</div><img src='/images/multimodal self-instruct.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Multimodal Self-Instruct: Synthetic Abstract Image and Visual Reasoning Instruction Using Language Model](https://arxiv.org/abs/2407.07053)  
@@ -145,7 +147,7 @@ My research focuses on Large Language Models, Multi-modal Models, and their appl
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/self-constrast.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='/images/self-constrast.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Self-Contrast: Better Reflection Through Inconsistent Solving Perspectives](https://arxiv.org/abs/2401.02009)  
@@ -163,10 +165,10 @@ My research focuses on Large Language Models, Multi-modal Models, and their appl
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/agent-pro.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='/images/agent-pro.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Agent-Pro: Learning to Evolve via Policy-Level Reflection and Optimization](https://arxiv.org/pdf/2402.17574f)  
+[Agent-Pro: Learning to Evolve via Policy-Level Reflection and Optimization](https://arxiv.org/abs/2402.17574)
 **Wenqi Zhang**, Ke Tang, Hai Wu, Mengna Wang, Yongliang Shen, Guiyang Hou, Zeqi Tan, Peng Li, Yueting Zhuang, Weiming Lu    
 
 [![arXiv](https://img.shields.io/badge/arXiv-Paper-b31b1b.svg)](https://arxiv.org/abs/2402.17574) 
@@ -180,7 +182,7 @@ My research focuses on Large Language Models, Multi-modal Models, and their appl
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2022</div><img src='images/nav.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2022</div><img src='/images/nav.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A Closed-Loop Perception, Decision-Making and Reasoning Mechanism for Human-Like Navigation](https://arxiv.org/abs/2207.11901)  
@@ -197,7 +199,7 @@ My research focuses on Large Language Models, Multi-modal Models, and their appl
 </div>  
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv2406</div><img src='images/videollama2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv2406</div><img src='/images/videollama2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [VideoLLaMA 2: Advancing Spatial-Temporal Modeling and Audio Understanding in Video-LLMs](https://arxiv.org/pdf/2406.07476)  
