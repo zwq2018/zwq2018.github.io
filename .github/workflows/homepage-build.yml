@@ -27,3 +27,14 @@ jobs:
           test -f _site/assets/css/homepage.css
           test -f _site/assets/js/homepage.js
           node --check assets/js/homepage.js
+      - name: Keep rendered pages for preview
+        uses: actions/upload-artifact@v4
+        with:
+          name: homepage-rendered-pages
+          retention-days: 7
+          path: |
+            _site/index.html
+            _site/archive/index.html
+            _site/about/index.html
+            _site/about.html
+            _site/assets/css/main.css
