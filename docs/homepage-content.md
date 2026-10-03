@@ -204,6 +204,28 @@ The article title and publisher in user screenshots are supplementary cross-chec
 | 机器之心Pro / Embodied-Reasoner | 具身交互推理: 图像-思考-行动交织思维链让机器人会思考、会交互 | [Publisher account on Sohu](https://www.sohu.com/a/889469911_129720) | Sohu source line identifies 机器之心Pro, published 2025-04-27 10:42. Exact arXiv/code/project association in the article. |
 | AITime / Multimodal Self-Instruct | Visual reasoning data synthesis talk | [Video](https://www.bilibili.com/video/BV1JuSqYKEnH/) | Original personal homepage talk link, dated October 2024 in the source homepage. |
 
+### Per-paper social links added on 2026-10-03
+
+Use these specific posts beside their corresponding paper resources, with the original Shields badge format. Do not substitute account homepages for a paper announcement. Existing publisher badges remain in place.
+
+| Paper | Platform / author | Verified original post | Evidence |
+| --- | --- | --- | --- |
+| Spatial-Interactor | 小红书 / 码农祺的经世致用 | [Original note](https://www.xiaohongshu.com/search_result/6ab6b81d000000001303ea4f?xsec_token=ABfj0cTt3x24aofkoBmrkjGWKa7FlAmxuJUUpi0Iv8BjU=&xsec_source=) | Previously read successfully; body names Spatial-Interactor and arXiv 2609.23038. |
+| EmbodiedMemory-Bench | 小红书 / VariX（厚肌薄发版） | [Original note](https://www.xiaohongshu.com/search_result/6abb33300000000018010bea?xsec_token=ABgWkBUjk6j4GFiLmjyQS_IuVTkSgo3kSOGly4VDuyOnc=&xsec_source=) | Search result and successfully read full note body; links exact arXiv 2609.28236 and project. |
+| Embodied-Navigator | 小红书 / 码农祺的经世致用 | [Original note](https://www.xiaohongshu.com/user/profile/60edb5190000000001006e9f/6a88a299000000003800097d?xsec_token=ABDsqSF5Ky_czTURhdwASwhnykPT927ePIt-EeaN82qjQ%3D&xsec_source=pc_user) | Previously read successfully; body names Embodied-Navigator and exact code subdirectory. |
+| VLA-Corrector | 小红书 / 码农祺的经世致用 | [Original note](https://www.xiaohongshu.com/user/profile/60edb5190000000001006e9f/6a4c9a220000000006036692?xsec_token=ABFJVohFX2rPdwUyx9eqn-H8NtFZ9HtUJ8IyvPZ5SS_qA%3D&xsec_source=pc_user) | Previously read successfully; body names VLA-Corrector, arXiv 2607.01804 and project page. |
+| ProVisE | 小红书 / 码农祺的经世致用 | [Original note](https://www.xiaohongshu.com/user/profile/60edb5190000000001006e9f/6a62f47d0000000009035294?xsec_token=ABew8j_nBLxOEwDgaKzGv_jxdZxlgEK8LPqbWbu67UeJg%3D&xsec_source=pc_user) | Previously read successfully; body links arXiv/HF 2607.21072 and ProVisE project page. |
+| GFT | 小红书 / AIGC 深一度 | [Original note](https://www.xiaohongshu.com/search_result/6a0ae3b3000000003703600b?xsec_token=AB3qESLh3jg-uJjq22_VeKyX-ZbxAQptAa0GHeEXfFpx4=&xsec_source=) | Targeted GFT search and successfully read body explicitly identifies GFT, On-Policy SFT view and reward fine-tuning. |
+| Embodied-Reasoner | 小红书 / 码农祺的经世致用 | [Original note](https://www.xiaohongshu.com/user/profile/60edb5190000000001006e9f/67e675fd000000001d01c5a1?xsec_token=ABeU3f9y5lAVLQ_HogxMpisbiM-gFz_4ulbesBTyrY6fs%3D&xsec_source=pc_user) | Successfully read again this turn; body names Embodied-Reasoner and arXiv 2503.21696. |
+| Spatial-Interactor | X / @spicysweet1859 | [Original post](https://x.com/spicysweet1859/status/2103547468487229515) | Own-account announcement with the exact paper title, recorded in the read-only X post inventory. |
+| EmbodiedMemory-Bench | X / @spicysweet1859 | [Original post](https://x.com/spicysweet1859/status/2105154714388328877) | Original post was read again through OpenCLI; its X Article is titled EmbodiedMemory-Bench and links arXiv 2609.28236. The short link redirects to https://x.com/i/article/2105152964306563072. |
+| ProVisE | X / @spicysweet1859 | [Original post](https://x.com/spicysweet1859/status/2080675405263155431) | Own-account announcement with the exact paper title, recorded in the read-only X post inventory. |
+| Embodied-Reasoner | X / @spicysweet1859 | [Original post](https://x.com/spicysweet1859/status/1905577302781812756) | Own-account announcement with the exact paper title, recorded in the read-only X post inventory. |
+| Multimodal Textbook | X / @spicysweet1859 | [Original post](https://x.com/spicysweet1859/status/1875075137936232690) | Own-account announcement with the exact paper title, recorded in the read-only X post inventory. |
+| Multimodal Self-Instruct | X / @spicysweet1859 | [Original post](https://x.com/spicysweet1859/status/1810888293833449725) | Own-account announcement with the exact paper title, recorded in the read-only X post inventory. |
+
+The GFT and EmbodiedMemory-Bench Xiaohongshu reports are from AIGC 深一度 and VariX（厚肌薄发版） respectively. The badge names the platform, without implying that Wenqi Zhang wrote those two notes. Original signed Xiaohongshu URLs are preserved from successful reads; access is governed by the platform.
+
 ### Requested media with links still to supply
 
 These two items are confirmed as requested by the user's screenshots, but an exact original URL was not located. Preserve them as maintenance TODOs. Do not use a fabricated WeChat URL, a search-results URL, or an unrelated navigation article as a destination.

@@ -71,6 +71,8 @@ Kaixiang Yao, Xu Wang, Miao Pan, Hu Xiyue, Weishi Wang, Daniel Dahlmeier, Jintao
 [![Github](https://img.shields.io/badge/Github-Code-181717.svg)](https://github.com/ZJU-OmniAI/Spatial-Interactor)
 [![Pages](https://img.shields.io/badge/Project-Page-0F88EB.svg)](https://zju-omniai.github.io/Spatial-Interactor/)
 [![Huggingface](https://img.shields.io/badge/HuggingFace-Models_and_Data-orange.svg)](https://huggingface.co/collections/kagakouko/spatial-interactor)
+[![X](https://img.shields.io/badge/X-Post-181717.svg)](https://x.com/spicysweet1859/status/2103547468487229515)
+[![小红书](https://img.shields.io/badge/小红书-Article-007bff.svg)](https://www.xiaohongshu.com/search_result/6ab6b81d000000001303ea4f?xsec_token=ABfj0cTt3x24aofkoBmrkjGWKa7FlAmxuJUUpi0Iv8BjU=&xsec_source=)
 
 - Learn local state transitions and long-horizon spatial reasoning from simulated and real interaction trajectories.
 - Introduce the LSI-108K curriculum and combine supervised fine-tuning with on-policy distillation.
@@ -89,6 +91,8 @@ Lizhou Liang, Xinyu Zhong, Miao Pan, Xiaohe Zhou, Xuanyu Liu, Qinfeng Li, Peng L
 [![Github](https://img.shields.io/badge/Github-Code-181717.svg)](https://github.com/ZJU-OmniAI/Embodied-Omni/tree/main/embodied_memory)
 [![Pages](https://img.shields.io/badge/Project-Page-0F88EB.svg)](https://zju-omniai.github.io/Embodied-Omni/EmbodiedMemoryBench/)
 [![Huggingface](https://img.shields.io/badge/HuggingFace-Dataset-orange.svg)](https://huggingface.co/datasets/lzLiang/EmbodiedMemoryBench)
+[![X](https://img.shields.io/badge/X-Post-181717.svg)](https://x.com/spicysweet1859/status/2105154714388328877)
+[![小红书](https://img.shields.io/badge/小红书-Article-007bff.svg)](https://www.xiaohongshu.com/search_result/6abb33300000000018010bea?xsec_token=ABgWkBUjk6j4GFiLmjyQS_IuVTkSgo3kSOGly4VDuyOnc=&xsec_source=)
 
 - Benchmark embodied memory through 2,554 interactive episodes across four task families.
 - Introduce Embodied-Memorizer with spatial, event, and scene memories, and train the EMem-8B policy.
@@ -107,6 +111,7 @@ Hongyan Feng, Sunlai Chen, Xuanyu Liu, Miao Pan, Yangfan Xie, Yuxiang Cui, Zhong
 [![Github](https://img.shields.io/badge/Github-Code-181717.svg)](https://github.com/ZJU-OmniAI/Embodied-Omni/tree/main/embodied_navigator)
 [![Pages](https://img.shields.io/badge/Project-Page-0F88EB.svg)](https://zju-omniai.github.io/Embodied-Navigator/)
 [![Huggingface](https://img.shields.io/badge/HuggingFace-Model-orange.svg)](https://huggingface.co/UnderTides/Embodied-Navigator-7B-GRPO)
+[![小红书](https://img.shields.io/badge/小红书-Article-007bff.svg)](https://www.xiaohongshu.com/user/profile/60edb5190000000001006e9f/6a88a299000000003800097d?xsec_token=ABDsqSF5Ky_czTURhdwASwhnykPT927ePIt-EeaN82qjQ%3D&xsec_source=pc_user)
 
 - Bridge visual grounding and 3D navigation through pixel pointing, selective reasoning, and Anchor-Trajectory Memory.
 - Align navigation decisions with Two-Level GRPO and demonstrate zero-shot deployment on a Unitree Go2 quadruped.
@@ -128,6 +133,7 @@ Yi Pan, Miao Pan, Qi Lu, Jiaming Huang, Man Zhang, Siteng Huang, Xin Li, Jie Zha
 [![Pages](https://img.shields.io/badge/Project-Page-0F88EB.svg)](https://zju-omniai.github.io/vla-corrector/)
 [![机器之心](https://img.shields.io/badge/机器之心-Article-007bff.svg)](https://mp.weixin.qq.com/s/rfSPbtc2_fRpggXeBPPC3Q)
 [![具身智能之心TechDaily](https://img.shields.io/badge/具身智能之心TechDaily-Article-007bff.svg)](https://mp.weixin.qq.com/s?__biz=MzkyMDY0OTc1NA==&mid=2247540637&idx=1&sn=0f177736092e21a930e0d9dc40a2a583&chksm=c093b9a1a2fe4236d9240ee5817dc7758f3725d564d87936e8f0ab95ce63509a83c22b85b3d7#rd)
+[![小红书](https://img.shields.io/badge/小红书-Article-007bff.svg)](https://www.xiaohongshu.com/user/profile/60edb5190000000001006e9f/6a4c9a220000000006036692?xsec_token=ABFJVohFX2rPdwUyx9eqn-H8NtFZ9HtUJ8IyvPZ5SS_qA%3D&xsec_source=pc_user)
 
 - Detect execution drift with a lightweight latent-space visual monitor while keeping the VLA backbone frozen.
 - Truncate stale action chunks and trigger corrective replanning for adaptive action horizons.
@@ -147,6 +153,8 @@ Xu Wang, Kaixiang Yao, Miao Pan, Xiaohe Zhou, Xuanyu Liu, **Wenqi Zhang**, Xuhon
 [![Pages](https://img.shields.io/badge/Project-Page-0F88EB.svg)](https://zju-omniai.github.io/ProVisE/)
 [![Huggingface](https://img.shields.io/badge/HuggingFace-Dataset-orange.svg)](https://huggingface.co/datasets/wx91726/SpatialGen-Bench)
 [![机器之心](https://img.shields.io/badge/机器之心-Article-007bff.svg)](https://www.jiqizhixin.com/articles/2026-08-08-4)
+[![X](https://img.shields.io/badge/X-Post-181717.svg)](https://x.com/spicysweet1859/status/2080675405263155431)
+[![小红书](https://img.shields.io/badge/小红书-Article-007bff.svg)](https://www.xiaohongshu.com/user/profile/60edb5190000000001006e9f/6a62f47d0000000009035294?xsec_token=ABew8j_nBLxOEwDgaKzGv_jxdZxlgEK8LPqbWbu67UeJg%3D&xsec_source=pc_user)
 
 - Evaluate spatial cognition through protocol-constrained visual answers parsed into comparable metrics.
 - Introduce SpatialGen-Bench with 470 samples across 14 spatial subtasks and four capability levels.
@@ -165,6 +173,7 @@ Wangjie Gan, Miao Pan, Linbo Xi, **Wenqi Zhang**, Jintao Chen, Jianwei Yin, Xuho
 [![arXiv](https://img.shields.io/badge/arXiv-Paper-b31b1b.svg)](https://arxiv.org/abs/2604.14258)
 [![Github](https://img.shields.io/badge/Github-Code-181717.svg)](https://github.com/ZJU-OmniAI/GFT)
 [![青稞AI](https://img.shields.io/badge/青稞AI-Article-007bff.svg)](https://mp.weixin.qq.com/s/npZq21S-gWY75yxbZeSEpQ)
+[![小红书](https://img.shields.io/badge/小红书-Article-007bff.svg)](https://www.xiaohongshu.com/search_result/6a0ae3b3000000003703600b?xsec_token=AB3qESLh3jg-uJjq22_VeKyX-ZbxAQptAa0GHeEXfFpx4=&xsec_source=)
 
 - Use Group Advantage Learning to derive reward-based supervision from diverse response groups.
 - Stabilize optimization with Dynamic Coefficient Rectification and improve the transition to subsequent reinforcement learning.
@@ -184,7 +193,9 @@ Wangjie Gan, Miao Pan, Linbo Xi, **Wenqi Zhang**, Jintao Chen, Jianwei Yin, Xuho
 [![Github](https://img.shields.io/github/stars/DAMO-NLP-SG/multimodal_textbook?style=social&label=stars)](https://github.com/DAMO-NLP-SG/multimodal_textbook)
 [![Huggingface](https://img.shields.io/badge/HuggingFace-Datasets-orange.svg)](https://huggingface.co/datasets/DAMO-NLP-SG/multimodal_textbook)
 [![Pages](https://img.shields.io/badge/Project-Page-0F88EB.svg)](https://multimodal-interleaved-textbook.github.io/)
-[![知乎](https://img.shields.io/badge/知乎-Article-007bff.svg)](https://zhuanlan.zhihu.com/p/16512014215) 
+[![知乎](https://img.shields.io/badge/知乎-Article-007bff.svg)](https://zhuanlan.zhihu.com/p/16512014215)
+[![X](https://img.shields.io/badge/X-Post-181717.svg)](https://x.com/spicysweet1859/status/1875075137936232690)
+
 - Interleaved image-text pretraining corpus from instructional videos
 - All the images and text are extracted from online instructional videos (22,000 class hours), covering multiple fundamental subjects, e.g., mathematics, physics, and chemistry.
 - Our textbook corpus providing a more coherent context and richer knowledge for image-text aligning.
@@ -209,8 +220,8 @@ Wangjie Gan, Miao Pan, Linbo Xi, **Wenqi Zhang**, Jintao Chen, Jianwei Yin, Xuho
 [![Pages](https://img.shields.io/badge/Project-Page-0F88EB.svg)](https://embodied-reasoner.github.io/)
 [![B站视频](https://img.shields.io/badge/B%E7%AB%99-%E8%A7%86%E9%A2%91-ff69b4.svg)](https://www.bilibili.com/video/BV1Cs7Hz4ETk?t=28.7)
 [![机器之心](https://img.shields.io/badge/机器之心-Article-007bff.svg)](https://www.sohu.com/a/889469911_129720)
-
-
+[![X](https://img.shields.io/badge/X-Post-181717.svg)](https://x.com/spicysweet1859/status/1905577302781812756)
+[![小红书](https://img.shields.io/badge/小红书-Article-007bff.svg)](https://www.xiaohongshu.com/user/profile/60edb5190000000001006e9f/67e675fd000000001d01c5a1?xsec_token=ABeU3f9y5lAVLQ_HogxMpisbiM-gFz_4ulbesBTyrY6fs%3D&xsec_source=pc_user)
 
 - O1-style Embodied Reasoning Model 
 - Interactive Embodied Scenario and Long-horizon Tasks
@@ -255,7 +266,10 @@ Wangjie Gan, Miao Pan, Linbo Xi, **Wenqi Zhang**, Jintao Chen, Jianwei Yin, Xuho
 [![Github](https://img.shields.io/github/stars/zwq2018/multi-modal-self-instruct?style=social)](https://github.com/zwq2018/Multi-modal-Self-instruct)
 [![Project](https://img.shields.io/badge/Project-Website-blue.svg)](https://multi-modal-self-instruct.github.io)
 [![Huggingface](https://img.shields.io/badge/HuggingFace-Datasets-orange.svg)](https://huggingface.co/datasets/zwq2018/Multi-modal-Self-instruct)
-[![新智元](https://img.shields.io/badge/新智元-Article-007bff.svg)](https://www.thepaper.cn/newsDetail_forward_28346662) 
+[![新智元](https://img.shields.io/badge/新智元-Article-007bff.svg)](https://www.thepaper.cn/newsDetail_forward_28346662)
+[![X](https://img.shields.io/badge/X-Post-181717.svg)](https://x.com/spicysweet1859/status/1810888293833449725)
+[![AITime](https://img.shields.io/badge/AITime-Video-ff69b4.svg)](https://www.bilibili.com/video/BV1JuSqYKEnH/)
+
 - Multimodal data engine
 - Synthetic massive abstract chart data   
 - Enhance the abstract image perception and reasoning ability of multimodal models
