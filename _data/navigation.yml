@@ -1,22 +1,22 @@
 # main links links
 main:
   - title: "About Me"
-    url: "/#home"
+    url: "/#about-me"
 
   - title: "News"
-    url: "/#research"
+    url: "/#-news"
 
   - title: "Selected Publications"
-    url: "/#publications"
+    url: "/#-selected-publications"
 
   - title: "Honors and Awards"
-    url: "/archive/#-honors-and-awards"
+    url: "/#-honors-and-awards"
 
   - title: "Experience"
-    url: "/archive/#-experience"
+    url: "/#-experience"
 
   - title: "Invited Talks"
-    url: "/#media"
+    url: "/#-invited-talks"
 
   - title: "Services"
-    url: "/archive/#-services"
+    url: "/#-services"

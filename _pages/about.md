@@ -1,8 +1,12 @@
 ---
-permalink: /archive/
-title: "Academic Archive"
+permalink: /
+title: ""
 excerpt: ""
 author_profile: true
+redirect_from:
+  - /about/
+  - /about.html
+  - /archive/
 ---
 
 {% if site.google_scholar_stats_use_cdn %}
@@ -16,8 +20,6 @@ author_profile: true
 
 
 # About Me    
-
-[← Back to the updated homepage](/) · This archive preserves the earlier academic record. See the homepage for recent research and current updates.
 
 I am a ZJU100 Young Professor at Zhejiang University. Previously, I interned at Alibaba DAMO Academy and worked at the Advanced Institute of Information Technology, Peking University.
 
@@ -35,6 +37,10 @@ My research focuses on Large Language Models, Multi-modal Models, and their appl
 <img src='/images/lab_goal.png' alt="Lab Goal" width="80%">
 
 # 🔥 News
+- *2026.09*: &nbsp;🚀 We release [Spatial-Interactor](#spatial-interactor) and [EmbodiedMemory-Bench](#embodied-memory-bench) for spatial reasoning and long-horizon embodied memory.
+- *2026.08*: &nbsp;🚀 [Embodied-Navigator](#embodied-navigator) connects pixel pointing, selective reasoning, memory, and reinforcement learning for embodied navigation.
+- *2026.07*: &nbsp;🚀 We release [VLA-Corrector](#vla-corrector) for corrective robot execution and [Show, Don't Tell / ProVisE](#provise) for visual spatial evaluation.
+- *2026*: &nbsp;🎉 [Embodied-Reasoner](#embodied-reasoner) appears in ACL 2026 Main and [GFT](#gft) in ACL 2026 Findings.
 - *2025.06*: &nbsp;🎉 Our Multimodal Textbook is accepted by ICCV 2025 Highlight [Multimodal Textbook](https://www.arxiv.org/abs/2501.00958), ranks #2 in Huggingface Trending, over 24k downloads in Huggingface.
 - *2025.05*: &nbsp;🎉 Two papers are accepted by ACL 2025, about SQL generation ([STaR-SQL](https://arxiv.org/pdf/2502.13550)) and Social Reasoning LLM.
 - *2025.03*: &nbsp;🎉 We release an Embodied Reasoning model. [Embodied-Reasoner: Synergizing Visual Search, Reasoning, and Action for Embodied Interactive Tasks](https://arxiv.org/abs/2503.21696)
@@ -54,6 +60,118 @@ My research focuses on Large Language Models, Multi-modal Models, and their appl
 
 
 (# indicates corresponding author)
+
+<div class='paper-box' id='spatial-interactor'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><video aria-label="Spatial-Interactor demonstration" src="https://zju-omniai.github.io/Spatial-Interactor/assets/presentation/spatial-interactor-intro-en.mp4?v=20260924-faithful" poster="https://zju-omniai.github.io/Spatial-Interactor/assets/presentation/spatial-interactor-intro-en-poster.webp?v=20260924-faithful" width="100%" controls playsinline preload="none"><a href="https://zju-omniai.github.io/Spatial-Interactor/">Watch on the project page</a></video></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Spatial-Interactor: Learning Spatial Reasoning through Interaction with the Observable Physical World](https://arxiv.org/abs/2609.23038)<br>
+Kaixiang Yao, Xu Wang, Miao Pan, Hu Xiyue, Weishi Wang, Daniel Dahlmeier, Jintao Chen, Yongliang Shen, Xuhong Zhang, **Wenqi Zhang**
+
+[![arXiv](https://img.shields.io/badge/arXiv-Paper-b31b1b.svg)](https://arxiv.org/abs/2609.23038)
+[![Github](https://img.shields.io/badge/Github-Code-181717.svg)](https://github.com/ZJU-OmniAI/Spatial-Interactor)
+[![Pages](https://img.shields.io/badge/Project-Page-0F88EB.svg)](https://zju-omniai.github.io/Spatial-Interactor/)
+[![Huggingface](https://img.shields.io/badge/HuggingFace-Models_and_Data-orange.svg)](https://huggingface.co/collections/kagakouko/spatial-interactor)
+
+- Learn local state transitions and long-horizon spatial reasoning from simulated and real interaction trajectories.
+- Introduce the LSI-108K curriculum and combine supervised fine-tuning with on-policy distillation.
+
+</div>
+</div>
+
+
+<div class='paper-box' id='embodied-memory-bench'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><video aria-label="EmbodiedMemory-Bench demonstration" src="https://zju-omniai.github.io/Embodied-Omni/EmbodiedMemoryBench/assets/reference_video_en.mp4" poster="https://zju-omniai.github.io/Embodied-Omni/EmbodiedMemoryBench/assets/video-poster-en.jpg" width="100%" controls playsinline preload="none"><a href="https://zju-omniai.github.io/Embodied-Omni/EmbodiedMemoryBench/">Watch on the project page</a></video></div></div>
+<div class='paper-box-text' markdown="1">
+
+[EmbodiedMemory-Bench: Benchmarking Embodied Memory for Long-Horizon Embodied Tasks](https://arxiv.org/abs/2609.28236)<br>
+Lizhou Liang, Xinyu Zhong, Miao Pan, Xiaohe Zhou, Xuanyu Liu, Qinfeng Li, Peng Li, Jintao Chen, Xuhong Zhang, **Wenqi Zhang**
+
+[![arXiv](https://img.shields.io/badge/arXiv-Paper-b31b1b.svg)](https://arxiv.org/abs/2609.28236)
+[![Github](https://img.shields.io/badge/Github-Code-181717.svg)](https://github.com/ZJU-OmniAI/Embodied-Omni/tree/main/embodied_memory)
+[![Pages](https://img.shields.io/badge/Project-Page-0F88EB.svg)](https://zju-omniai.github.io/Embodied-Omni/EmbodiedMemoryBench/)
+[![Huggingface](https://img.shields.io/badge/HuggingFace-Dataset-orange.svg)](https://huggingface.co/datasets/lzLiang/EmbodiedMemoryBench)
+
+- Benchmark embodied memory through 2,554 interactive episodes across four task families.
+- Introduce Embodied-Memorizer with spatial, event, and scene memories, and train the EMem-8B policy.
+
+</div>
+</div>
+
+
+<div class='paper-box' id='embodied-navigator'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><video aria-label="Embodied-Navigator demonstration" src="https://zju-omniai.github.io/Embodied-Navigator/img/Introduction.mp4" poster="https://zju-omniai.github.io/Embodied-Navigator/img/introduction-poster.jpg" width="100%" controls playsinline preload="none"><a href="https://zju-omniai.github.io/Embodied-Navigator/">Watch on the project page</a></video></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Embodied-Navigator: Point, Think, Memorize, and Align for Efficient Navigation](https://arxiv.org/abs/2608.17512)<br>
+Hongyan Feng, Sunlai Chen, Xuanyu Liu, Miao Pan, Yangfan Xie, Yuxiang Cui, Zhongxiang Zhou, Rong Xiong, **Wenqi Zhang**, Jianwei Yin, Yueting Zhuang, Xuhong Zhang
+
+[![arXiv](https://img.shields.io/badge/arXiv-Paper-b31b1b.svg)](https://arxiv.org/abs/2608.17512)
+[![Github](https://img.shields.io/badge/Github-Code-181717.svg)](https://github.com/ZJU-OmniAI/Embodied-Omni/tree/main/embodied_navigator)
+[![Pages](https://img.shields.io/badge/Project-Page-0F88EB.svg)](https://zju-omniai.github.io/Embodied-Navigator/)
+[![Huggingface](https://img.shields.io/badge/HuggingFace-Model-orange.svg)](https://huggingface.co/UnderTides/Embodied-Navigator-7B-GRPO)
+
+- Bridge visual grounding and 3D navigation through pixel pointing, selective reasoning, and Anchor-Trajectory Memory.
+- Align navigation decisions with Two-Level GRPO and demonstrate zero-shot deployment on a Unitree Go2 quadruped.
+
+Media coverage: 智猩猩社群 · 视觉语言导航.
+
+</div>
+</div>
+
+
+<div class='paper-box' id='vla-corrector'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026</div><video aria-label="VLA-Corrector demonstration" src="https://zju-omniai.github.io/vla-corrector/assets/videos/drawer_alignment_perturbation.mp4" poster="https://zju-omniai.github.io/vla-corrector/assets/images/teaser_open_loop_vs_closed_loop.webp" width="100%" controls playsinline preload="none"><a href="https://zju-omniai.github.io/vla-corrector/">Watch on the project page</a></video></div></div>
+<div class='paper-box-text' markdown="1">
+
+[VLA-Corrector: Lightweight Detect-and-Correct Inference for Adaptive Action Horizon](https://arxiv.org/abs/2607.01804)<br>
+Yi Pan, Miao Pan, Qi Lu, Jiaming Huang, Man Zhang, Siteng Huang, Xin Li, Jie Zhang, Yongliang Shen, Xuhong Zhang, **Wenqi Zhang**
+
+[![arXiv](https://img.shields.io/badge/arXiv-Paper-b31b1b.svg)](https://arxiv.org/abs/2607.01804)
+[![Github](https://img.shields.io/badge/Github-Code-181717.svg)](https://github.com/ZJU-OmniAI/vla-corrector)
+[![Pages](https://img.shields.io/badge/Project-Page-0F88EB.svg)](https://zju-omniai.github.io/vla-corrector/)
+[![机器之心](https://img.shields.io/badge/机器之心-Article-007bff.svg)](https://mp.weixin.qq.com/s/rfSPbtc2_fRpggXeBPPC3Q)
+[![具身智能之心TechDaily](https://img.shields.io/badge/具身智能之心TechDaily-Article-007bff.svg)](https://mp.weixin.qq.com/s?__biz=MzkyMDY0OTc1NA==&mid=2247540637&idx=1&sn=0f177736092e21a930e0d9dc40a2a583&chksm=c093b9a1a2fe4236d9240ee5817dc7758f3725d564d87936e8f0ab95ce63509a83c22b85b3d7#rd)
+
+- Detect execution drift with a lightweight latent-space visual monitor while keeping the VLA backbone frozen.
+- Truncate stale action chunks and trigger corrective replanning for adaptive action horizons.
+
+</div>
+</div>
+
+
+<div class='paper-box' id='provise'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><video aria-label="ProVisE overview demonstration" src="https://zju-omniai.github.io/ProVisE/assets/provise-overview.mp4" poster="https://zju-omniai.github.io/ProVisE/assets/provise-overview-poster.webp" width="100%" controls playsinline preload="none"><a href="https://zju-omniai.github.io/ProVisE/">Watch on the project page</a></video></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Show, Don't Tell: Evaluating Spatial Cognition in Generative Pixels Rather Than LLM Text](https://arxiv.org/abs/2607.21072)<br>
+Xu Wang, Kaixiang Yao, Miao Pan, Xiaohe Zhou, Xuanyu Liu, **Wenqi Zhang**, Xuhong Zhang
+
+[![arXiv](https://img.shields.io/badge/arXiv-Paper-b31b1b.svg)](https://arxiv.org/abs/2607.21072)
+[![Github](https://img.shields.io/badge/Github-Code-181717.svg)](https://github.com/ZJU-OmniAI/ProVisE)
+[![Pages](https://img.shields.io/badge/Project-Page-0F88EB.svg)](https://zju-omniai.github.io/ProVisE/)
+[![Huggingface](https://img.shields.io/badge/HuggingFace-Dataset-orange.svg)](https://huggingface.co/datasets/wx91726/SpatialGen-Bench)
+[![机器之心](https://img.shields.io/badge/机器之心-Article-007bff.svg)](https://www.jiqizhixin.com/articles/2026-08-08-4)
+
+- Evaluate spatial cognition through protocol-constrained visual answers parsed into comparable metrics.
+- Introduce SpatialGen-Bench with 470 samples across 14 spatial subtasks and four capability levels.
+
+</div>
+</div>
+
+
+<div class='paper-box' id='gft'><div class='paper-box-image'><div><div class="badge">ACL 2026 Findings</div><img src="https://raw.githubusercontent.com/ZJU-OmniAI/GFT/main/docs/method.png" alt="GFT method overview" width="100%" loading="lazy"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[GFT: From Imitation to Reward Fine-Tuning with Unbiased Group Advantages and Dynamic Coefficient Rectification](https://aclanthology.org/2026.findings-acl.1444/)<br>
+Wangjie Gan, Miao Pan, Linbo Xi, **Wenqi Zhang**, Jintao Chen, Jianwei Yin, Xuhong Zhang
+
+[![ACL 2026](https://img.shields.io/badge/ACL_2026-Paper-b31b1b.svg)](https://aclanthology.org/2026.findings-acl.1444/)
+[![arXiv](https://img.shields.io/badge/arXiv-Paper-b31b1b.svg)](https://arxiv.org/abs/2604.14258)
+[![Github](https://img.shields.io/badge/Github-Code-181717.svg)](https://github.com/ZJU-OmniAI/GFT)
+[![青稞AI](https://img.shields.io/badge/青稞AI-Article-007bff.svg)](https://mp.weixin.qq.com/s/npZq21S-gWY75yxbZeSEpQ)
+
+- Use Group Advantage Learning to derive reward-based supervision from diverse response groups.
+- Stabilize optimization with Dynamic Coefficient Rectification and improve the transition to subsequent reinforcement learning.
+
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><video src='/images/multimodal textbook.mp4' alt="sym" width="100%" controls></video></div></div>
 
@@ -75,17 +193,18 @@ My research focuses on Large Language Models, Multi-modal Models, and their appl
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Embodied Reasoning</div><video src='/images/video_en_subtitle.mp4' alt="sym" width="100%" controls></video></div></div>
+<div class='paper-box' id='embodied-reasoner'><div class='paper-box-image'><div><div class="badge">ACL 2026 Main</div><video aria-label="Embodied-Reasoner demonstration" src='/images/video_en_subtitle.mp4' poster='/images/embodied-reasoner-poster.jpg' width="100%" controls playsinline preload="none"><a href="https://embodied-reasoner.github.io/">Watch on the project page</a></video></div></div>
 
 
 <div class='paper-box-text' markdown="1">
 
 [Embodied-Reasoner: Synergizing Visual Search, Reasoning, and Action for Embodied Interactive Tasks
-](https://arxiv.org/abs/2503.21696)  
-**Wenqi Zhang**, Mengna Wang, Gangao Liu, Xu Huixin, Yiwei Jiang, Yongliang Shen, Guiyang Hou, Zhe Zheng, Hang Zhang, Xin Li, Weiming Lu, Peng Li, Yueting Zhuang
+](https://aclanthology.org/2026.acl-long.1910/)<br>
+**Wenqi Zhang**, Mengna Wang, Gangao Liu, Huixin Xu, Yiwei Jiang, Yongliang Shen, Guiyang Hou, Zhe Zheng, Hang Zhang, Xin Li, Jiajun Liu, Weiming Lu, Peng Li, Yueting Zhuang
 
+[![ACL 2026](https://img.shields.io/badge/ACL_2026-Paper-b31b1b.svg)](https://aclanthology.org/2026.acl-long.1910/)
 [![arXiv](https://img.shields.io/badge/arXiv-Paper-b31b1b.svg)](https://arxiv.org/abs/2503.21696) 
-[![Github](https://img.shields.io/github/stars/zwq2018/embodied_reasoner?style=social&label=stars)](https://github.com/zwq2018/embodied_reasoner)
+[![Github](https://img.shields.io/github/stars/ZJU-OmniAI/Embodied-Omni?style=social&label=stars)](https://github.com/ZJU-OmniAI/Embodied-Omni/tree/main/embodied_reasoner)
 [![Huggingface](https://img.shields.io/badge/HuggingFace-Datasets-orange.svg)](https://huggingface.co/datasets/zwq2018/embodied_reasoner)
 [![Pages](https://img.shields.io/badge/Project-Page-0F88EB.svg)](https://embodied-reasoner.github.io/)
 [![B站视频](https://img.shields.io/badge/B%E7%AB%99-%E8%A7%86%E9%A2%91-ff69b4.svg)](https://www.bilibili.com/video/BV1Cs7Hz4ETk?t=28.7)
@@ -214,6 +333,8 @@ Zesen Cheng, Sicong Leng, Hang Zhang, Yifei Xin, Xin Li, Guanzheng Chen, Yongxin
 </div>
 </div>
 
+- <span style="font-size:small; color:white; background-color:blue">`ACL 2025 Main`</span> [STaR-SQL: Self-Taught Reasoner for Text-to-SQL](https://aclanthology.org/2025.acl-long.1187/), Mingqian He, Yongliang Shen, **Wenqi Zhang**, Qiuying Peng, Jun Wang, Weiming Lu.
+
 - <span style="font-size:small; color:white; background-color:blue">`TASLP 2406`</span> [Specialized Mathematical Solving by a Step-by-Step Expression Chain Generation](https://ieeexplore.ieee.org/document/10552332), **Wenqi Zhang**, Yongliang Shen, Guiyang Hou, Kuangyi Wang, Weiming Lu. [![Github](https://img.shields.io/github/stars/zwq2018/Math-Reasoning-With-PLMs?style=social)](https://github.com/zwq2018/Math-Reasoning-With-PLMs)
 
 - <span style="font-size:small; color:white; background-color:blue">`ACL 2024 Findings`</span> [TimeToM: Temporal Space is the Key to Unlocking the Door of Large Language Models](https://arxiv.org/pdf/2407.01455), Guiyang Hou, **Wenqi Zhang #**, Yongliang Shen, Linjuan Wu, Weiming Lu.
@@ -253,7 +374,7 @@ Zesen Cheng, Sicong Leng, Hang Zhang, Yifei Xin, Xin Li, Guanzheng Chen, Yongxin
 
 
 # 💻 Experience
-- 2024.05 - now, Research Intern, Alibaba DAMO Academy, Supervisor: Xin Li, Lidong Bing
+- 2024.05, Research Intern, Alibaba DAMO Academy, Supervisor: Xin Li, Lidong Bing
   - Vision-language Pretraining
   - Developing video-language models with colleagues
 

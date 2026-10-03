@@ -2,16 +2,16 @@
 
 Last checked: **2026-10-03** (Asia/Shanghai).
 
-This document records the public evidence used for the homepage redesign. It is a maintenance record, not additional copy to publish on the homepage. The homepage can use short project descriptions; bibliography entries should retain the exact paper titles below.
+This document records the public evidence used for the homepage content update. It is a maintenance record, not additional copy to publish on the homepage. Bibliography entries should retain the exact paper titles below.
 
 ## Homepage content organization
 
-- Each of the six featured projects appears once, with its demonstration, description, paper, code, and project-page links together.
-- Related media coverage and video talks are attached to the relevant project in a collapsed “Media & talks” disclosure. Multiple publishers covering one paper do not become separate project introductions.
-- The “More selected work” list contains only five additional works not featured in the demonstration cards: GFT, Multimodal Textbook, STaR-SQL, Multimodal Self-Instruct, and Data-Copilot. GFT coverage and the Self-Instruct talk are attached to their respective rows.
-- There is no separate media grid, repeated research-theme strip, or second research biography. Honors and service retain their dated records. Social profiles appear once in the profile card; the contact section contains the email.
-- The two Navigator publishers supplied in the screenshot have no verified article URLs. They remain publisher credits within its disclosure, with the supplied titles retained as tooltips. Add their original URLs when available.
-- The full academic archive remains available separately. Legacy `#media` links land at the consolidated research section.
+- Keep the original academic homepage theme, navigation, sidebar, section order, typography, and existing `paper-box` styling. The user explicitly requested the original design with additional content.
+- Add Spatial-Interactor, EmbodiedMemory-Bench, Embodied-Navigator, VLA-Corrector, Show, Don't Tell / ProVisE, and GFT to the existing selected-publications list. Keep each project's full introduction in one entry, alongside its authors, demonstration or figure, paper, code, and project links.
+- Put media coverage badges beside the corresponding project resources. Multiple publishers covering one paper do not become separate project introductions or a new media grid. Update the existing Embodied-Reasoner entry rather than inserting a duplicate.
+- News is a short dated changelog that links to the corresponding publication entry. Retain the original older publications, honors, experience, invited talks, and services.
+- The two Navigator publishers supplied in the screenshot have no verified article URLs. They remain text credits in its publication entry. Add their original URLs when available.
+- Keep X and the confirmed Xiaohongshu profile in the original author sidebar. The academic page again lives at `/`; `/about/`, `/about.html`, and the previous `/archive/` link redirect there.
 
 ## Evidence rules
 
@@ -158,9 +158,10 @@ Verification: arXiv title/date/author/abstract; official README; project HTML me
 - [Formal paper](https://aclanthology.org/2026.findings-acl.1444/)
 - [arXiv](https://arxiv.org/abs/2604.14258)
 - [Code](https://github.com/ZJU-OmniAI/GFT)
+- [Official method figure](https://raw.githubusercontent.com/ZJU-OmniAI/GFT/main/docs/method.png)
 - [Hugging Face daily paper](https://huggingface.co/papers/2604.14258)
 
-Verification: arXiv submission history and abstract; ACL Anthology venue and author list; official repository and the first-author explanatory article. The repository News line `2025/04/06` alongside ACL 2026 is an apparent typo; do not reuse it as a date. No standalone project overview video was established.
+Verification: arXiv submission history and abstract; ACL Anthology venue and author list; official repository and the first-author explanatory article. The method figure URL is the official repository contents API's `download_url`. The repository News line `2025/04/06` alongside ACL 2026 is an apparent typo; do not reuse it as a date. No standalone project overview video was established.
 
 ### Embodied-Reasoner (existing work, updated venue)
 
