@@ -130,8 +130,8 @@ Yi Pan, Miao Pan, Qi Lu, Jiaming Huang, Man Zhang, Siteng Huang, Xin Li, Jie Zha
 [![arXiv](https://img.shields.io/badge/arXiv-Paper-b31b1b.svg)](https://arxiv.org/abs/2607.01804)
 [![Github](https://img.shields.io/badge/Github-Code-181717.svg)](https://github.com/ZJU-OmniAI/vla-corrector)
 [![Pages](https://img.shields.io/badge/Project-Page-0F88EB.svg)](https://zju-omniai.github.io/vla-corrector/)
-[![机器之心](https://img.shields.io/badge/机器之心-Article-007bff.svg)](https://mp.weixin.qq.com/s/rfSPbtc2_fRpggXeBPPC3Q)
-[![具身智能之心TechDaily](https://img.shields.io/badge/具身智能之心TechDaily-Article-007bff.svg)](https://mp.weixin.qq.com/s?__biz=MzkyMDY0OTc1NA==&mid=2247540637&idx=1&sn=0f177736092e21a930e0d9dc40a2a583&chksm=c093b9a1a2fe4236d9240ee5817dc7758f3725d564d87936e8f0ab95ce63509a83c22b85b3d7#rd)
+{% include media-link.html name="机器之心" logo="synced.jpg" url="https://mp.weixin.qq.com/s/rfSPbtc2_fRpggXeBPPC3Q" %}
+{% include media-link.html name="具身智能之心TechDaily" logo="techdaily.webp" url="https://mp.weixin.qq.com/s?__biz=MzkyMDY0OTc1NA==&mid=2247540637&idx=1&sn=0f177736092e21a930e0d9dc40a2a583&chksm=c093b9a1a2fe4236d9240ee5817dc7758f3725d564d87936e8f0ab95ce63509a83c22b85b3d7#rd" %}
 [![小红书](https://img.shields.io/badge/小红书-Article-007bff.svg)](https://www.xiaohongshu.com/user/profile/60edb5190000000001006e9f/6a4c9a220000000006036692?xsec_token=ABFJVohFX2rPdwUyx9eqn-H8NtFZ9HtUJ8IyvPZ5SS_qA%3D&xsec_source=pc_user)
 
 - Detect execution drift with a lightweight latent-space visual monitor while keeping the VLA backbone frozen.
@@ -151,7 +151,7 @@ Xu Wang, Kaixiang Yao, Miao Pan, Xiaohe Zhou, Xuanyu Liu, **Wenqi Zhang**, Xuhon
 [![Github](https://img.shields.io/badge/Github-Code-181717.svg)](https://github.com/ZJU-OmniAI/ProVisE)
 [![Pages](https://img.shields.io/badge/Project-Page-0F88EB.svg)](https://zju-omniai.github.io/ProVisE/)
 [![Huggingface](https://img.shields.io/badge/HuggingFace-Dataset-orange.svg)](https://huggingface.co/datasets/wx91726/SpatialGen-Bench)
-[![机器之心](https://img.shields.io/badge/机器之心-Article-007bff.svg)](https://www.jiqizhixin.com/articles/2026-08-08-4)
+{% include media-link.html name="机器之心" logo="synced.jpg" url="https://www.jiqizhixin.com/articles/2026-08-08-4" %}
 [![X](https://img.shields.io/badge/X-Post-181717.svg)](https://x.com/spicysweet1859/status/2080675405263155431)
 [![小红书](https://img.shields.io/badge/小红书-Article-007bff.svg)](https://www.xiaohongshu.com/user/profile/60edb5190000000001006e9f/6a62f47d0000000009035294?xsec_token=ABew8j_nBLxOEwDgaKzGv_jxdZxlgEK8LPqbWbu67UeJg%3D&xsec_source=pc_user)
 
@@ -171,7 +171,7 @@ Wangjie Gan, Miao Pan, Linbo Xi, **Wenqi Zhang**, Jintao Chen, Jianwei Yin, Xuho
 [![ACL 2026](https://img.shields.io/badge/ACL_2026-Paper-b31b1b.svg)](https://aclanthology.org/2026.findings-acl.1444/)
 [![arXiv](https://img.shields.io/badge/arXiv-Paper-b31b1b.svg)](https://arxiv.org/abs/2604.14258)
 [![Github](https://img.shields.io/badge/Github-Code-181717.svg)](https://github.com/ZJU-OmniAI/GFT)
-[![青稞AI](https://img.shields.io/badge/青稞AI-Article-007bff.svg)](https://mp.weixin.qq.com/s/npZq21S-gWY75yxbZeSEpQ)
+{% include media-link.html name="青稞AI" logo="qingke.png" url="https://mp.weixin.qq.com/s/npZq21S-gWY75yxbZeSEpQ" %}
 [![小红书](https://img.shields.io/badge/小红书-Article-007bff.svg)](https://www.xiaohongshu.com/search_result/6a0ae3b3000000003703600b?xsec_token=AB3qESLh3jg-uJjq22_VeKyX-ZbxAQptAa0GHeEXfFpx4=&xsec_source=)
 
 - Use Group Advantage Learning to derive reward-based supervision from diverse response groups.
@@ -218,7 +218,7 @@ Wangjie Gan, Miao Pan, Linbo Xi, **Wenqi Zhang**, Jintao Chen, Jianwei Yin, Xuho
 [![Huggingface](https://img.shields.io/badge/HuggingFace-Datasets-orange.svg)](https://huggingface.co/datasets/zwq2018/embodied_reasoner)
 [![Pages](https://img.shields.io/badge/Project-Page-0F88EB.svg)](https://embodied-reasoner.github.io/)
 [![B站视频](https://img.shields.io/badge/B%E7%AB%99-%E8%A7%86%E9%A2%91-ff69b4.svg)](https://www.bilibili.com/video/BV1Cs7Hz4ETk?t=28.7)
-[![机器之心](https://img.shields.io/badge/机器之心-Article-007bff.svg)](https://www.sohu.com/a/889469911_129720)
+{% include media-link.html name="机器之心" logo="synced.jpg" url="https://www.sohu.com/a/889469911_129720" %}
 [![X](https://img.shields.io/badge/X-Post-181717.svg)](https://x.com/spicysweet1859/status/1905577302781812756)
 [![小红书](https://img.shields.io/badge/小红书-Article-007bff.svg)](https://www.xiaohongshu.com/user/profile/60edb5190000000001006e9f/67e675fd000000001d01c5a1?xsec_token=ABeU3f9y5lAVLQ_HogxMpisbiM-gFz_4ulbesBTyrY6fs%3D&xsec_source=pc_user)
 
@@ -245,7 +245,7 @@ Wangjie Gan, Miao Pan, Linbo Xi, **Wenqi Zhang**, Jintao Chen, Jianwei Yin, Xuho
 [![Github](https://img.shields.io/github/stars/zwq2018/data-copilot?style=social&label=stars)](https://github.com/zwq2018/Data-Copilot)
 [![Hugginface Spaces](https://img.shields.io/badge/%F0%9F%A4%97-Open%20in%20Spaces-blue)](https://huggingface.co/spaces/zwq2018/Data-Copilot)
 [![知乎](https://img.shields.io/badge/知乎-Video-0F88EB.svg)](https://zhuanlan.zhihu.com/p/636906119)
-[![机器之心](https://img.shields.io/badge/机器之心-Article-007bff.svg)](https://www.jiqizhixin.com/articles/2023-06-26-2) 
+{% include media-link.html name="机器之心" logo="synced.jpg" url="https://www.jiqizhixin.com/articles/2023-06-26-2" %}
 - LLM-powered autonomous data analysis agent   
 - Automated data querying, analysis, and visualization   
 - Enterprise-level scenario  
@@ -265,7 +265,7 @@ Wangjie Gan, Miao Pan, Linbo Xi, **Wenqi Zhang**, Jintao Chen, Jianwei Yin, Xuho
 [![Github](https://img.shields.io/github/stars/zwq2018/multi-modal-self-instruct?style=social)](https://github.com/zwq2018/Multi-modal-Self-instruct)
 [![Project](https://img.shields.io/badge/Project-Website-blue.svg)](https://multi-modal-self-instruct.github.io)
 [![Huggingface](https://img.shields.io/badge/HuggingFace-Datasets-orange.svg)](https://huggingface.co/datasets/zwq2018/Multi-modal-Self-instruct)
-[![新智元](https://img.shields.io/badge/新智元-Article-007bff.svg)](https://www.thepaper.cn/newsDetail_forward_28346662)
+{% include media-link.html name="新智元" logo="xinzhiyuan.png" url="https://www.thepaper.cn/newsDetail_forward_28346662" %}
 [![X](https://img.shields.io/badge/X-Post-181717.svg)](https://x.com/spicysweet1859/status/1810888293833449725)
 [![AITime](https://img.shields.io/badge/AITime-Video-ff69b4.svg)](https://www.bilibili.com/video/BV1JuSqYKEnH/)
 
@@ -286,8 +286,8 @@ Wangjie Gan, Miao Pan, Linbo Xi, **Wenqi Zhang**, Jintao Chen, Jianwei Yin, Xuho
 **Wenqi Zhang**, Yongliang Shen, Linjuan Wu, Qiuying Peng, Jun Wang, Yueting Zhuang, Weiming Lu 
 
 [![arXiv](https://img.shields.io/badge/arXiv-Paper-b31b1b.svg)](https://arxiv.org/abs/2401.02009) 
-[![MIT科技评论](https://img.shields.io/badge/MIT科技评论-Article-007bff.svg)](https://www.mittrchina.com/news/detail/13106) 
-[![PaperWeekly](https://img.shields.io/badge/PaperWeekly-Article-007bff.svg)](https://bendi.news/wxnews/cls46zk260023lpnyhyekusue)
+{% include media-link.html name="MIT科技评论" logo="mittr.svg" url="https://www.mittrchina.com/news/detail/13106" wordmark=true %}
+{% include media-link.html name="PaperWeekly" logo="paperweekly.jpg" url="https://bendi.news/wxnews/cls46zk260023lpnyhyekusue" %}
 - Investigate LLM's self-reflection ability 
 - Break the blind faith in LLM's self-reflection ability
 - Inference time scale-up for better reasoning ability
@@ -305,8 +305,8 @@ Wangjie Gan, Miao Pan, Linbo Xi, **Wenqi Zhang**, Jintao Chen, Jianwei Yin, Xuho
 
 [![arXiv](https://img.shields.io/badge/arXiv-Paper-b31b1b.svg)](https://arxiv.org/abs/2402.17574) 
 [![Github](https://img.shields.io/github/stars/zwq2018/Agent-Pro?style=social)](https://github.com/zwq2018/Agent-Pro) 
-[![量子位](https://img.shields.io/badge/量子位-Article-007bff.svg)](https://www.qbitai.com/2024/03/127294.html) 
-[![将门创投](https://img.shields.io/badge/将门创投-Article-007bff.svg)](https://mp.weixin.qq.com/s/gD4pZc6pvX8f_62uiPJacg)
+{% include media-link.html name="量子位" logo="qbit-wordmark.png" url="https://www.qbitai.com/2024/03/127294.html" wordmark=true %}
+{% include media-link.html name="将门创投" logo="jiangmen.png" url="https://mp.weixin.qq.com/s/gD4pZc6pvX8f_62uiPJacg" wordmark=true %}
 - Self-evolving LLM agent
 - Policy-level reflection and optimization
 - Dynamic environment and game scenarios
