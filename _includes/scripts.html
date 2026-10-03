@@ -2,7 +2,7 @@
 {% if page.project_metrics %}
 <script id="hf-metrics-data" type="application/json">{{ site.data.huggingface_metrics | jsonify }}</script>
 <script id="github-metrics-data" type="application/json">{{ site.data.github_metrics | jsonify }}</script>
-<script src="{{ '/assets/js/project-metrics.js' | relative_url }}" defer></script>
+<script src="{{ '/assets/js/project-metrics.js' | relative_url }}?v={{ site.time | date: '%s' }}" defer></script>
 {% endif %}
 
 {% include analytics.html %}
