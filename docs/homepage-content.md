@@ -1,6 +1,6 @@
 # Homepage content sources and maintenance
 
-Last checked: **2026-10-03** (Asia/Shanghai).
+Last checked: **2026-10-04** (Asia/Shanghai).
 
 This document records the public evidence used for the homepage content update. It is a maintenance record, not additional copy to publish on the homepage. Bibliography entries should retain the exact paper titles below.
 
@@ -10,7 +10,7 @@ This document records the public evidence used for the homepage content update. 
 - Add Spatial-Interactor, EmbodiedMemory-Bench, Embodied-Navigator, VLA-Corrector, Show, Don't Tell / ProVisE, and GFT to the existing selected-publications list. Keep each project's full introduction in one entry, alongside its authors, demonstration or figure, paper, code, and project links.
 - Put media coverage badges beside the corresponding project resources. Multiple publishers covering one paper do not become separate project introductions or a new media grid. Update the existing Embodied-Reasoner entry rather than inserting a duplicate.
 - News is a short dated changelog that links to the corresponding publication entry. Retain the original older publications, honors, experience, invited talks, and services.
-- The two Navigator publishers supplied in the screenshot have no verified article URLs. They remain text credits in its publication entry. Add their original URLs when available.
+- Navigator has one user-supplied WeChat article URL with its publisher still unconfirmed. Keep the neutral 微信公众号 label until its identity is established; the supplied screenshot titles remain in the source notes below.
 - Keep X and the confirmed Xiaohongshu profile in the original author sidebar. The academic page again lives at `/`; `/about/`, `/about.html`, and the previous `/archive/` link redirect there.
 
 ## Evidence rules
@@ -22,6 +22,23 @@ This document records the public evidence used for the homepage content update. 
 - User-supplied screenshots are supplementary evidence for requested article titles and publishers. Real article/project URLs are the main references. Screenshots do not justify inventing a URL, date, acceptance, metric, or authorship claim.
 - Video URLs are taken from official project HTML or official repository README/source. Keep a visible project-page fallback, avoid automatic playback, and recheck the source when updating the page.
 - Live stars, downloads, rankings, and follower counts were deliberately excluded from the redesign. Any later use needs a date and a current source.
+
+## Publisher logo resources
+
+On 2026-10-04 the user requested official media logos. Eleven existing article links now use eight publisher identities, rendered by `_includes/media-link.html`. The files in `images/media/` retain their source artwork and aspect ratio. CSS is scoped to these links within the existing publication text. Article destinations are unchanged.
+
+| Publisher | Local asset | Brand source and verification |
+| --- | --- | --- |
+| 机器之心 | `synced.jpg` | [机器之心Pro's own article](https://www.sohu.com/a/889469911_129720) names the publisher and embeds this [account logo](https://sucimg.itc.cn/avatarimg/3238f616db5e4ea7b8d8372500a4dbf5_1443406876069) in its author metadata. The asset is JPEG. |
+| 具身智能之心TechDaily | `techdaily.webp` | [Account article archive](https://www.jintiankansha.me/column/OyGGse6DLa) exposes the [cached WeChat avatar](https://img.100weidu.com/weixin/head/MzkyMDY0OTc1NA==?imageMogr2/thumbnail/100x100/quality/30/format/webp/strip). Its WeChat biz ID `MzkyMDY0OTc1NA==` matches the exact VLA-Corrector article. The archive carries the account's 3D logo; this is a mirrored account avatar, not a newly drawn logo. |
+| 青稞AI | `qingke.png` | [Official 青稞社区 site](https://qingkeai.online/) identifies its 青稞AI account and uses this [logo](https://qingkeai.online/upload/logo.png) in the header and favicon. |
+| 新智元 | `xinzhiyuan.png` | [Publisher's own 澎湃号 article](https://www.thepaper.cn/newsDetail_forward_28346662) embeds this [verified publisher avatar](https://image.thepaper.cn/publish/interaction/image/5/76/662.png); author metadata gives 新智元 and 北京中经智元科技发展有限公司. |
+| MIT科技评论 | `mittr.svg` | The [official Chinese site](https://www.mittrchina.com/) uses this [SVG wordmark](https://www.mittrchina.com/static/media/logo.f689d700.svg) in its navigation. |
+| PaperWeekly | `paperweekly.jpg` | [WeChat account directory](https://m.wxnum.cn/paperweekly.html) identifies the `paperweekly` account and its [cached publisher logo](https://m.wxnum.cn/cover-ico/paperweekly.jpg). This is a mirrored account logo. |
+| 量子位 | `qbit-wordmark.png` | The [official site](https://www.qbitai.com/) references this [wordmark](https://www.qbitai.com/wp-content/themes/liangziwei/imgnew/logo.png) from its header CSS. |
+| 将门创投 | `jiangmen.png` | [Official site](http://www.thejiangmen.com/) embeds this [header logo](http://www.thejiangmen.com/img/Logo.png). |
+
+The unidentified Navigator article keeps its existing neutral badge. Do not infer its publisher from the first suggested answer or substitute another organization's logo without confirmation.
 
 ## Identity and profile
 
