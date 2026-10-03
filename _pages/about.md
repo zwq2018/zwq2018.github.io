@@ -3,6 +3,7 @@ permalink: /
 title: ""
 excerpt: ""
 author_profile: true
+project_metrics: true
 redirect_from:
   - /about/
   - /about.html
@@ -68,9 +69,10 @@ My research focuses on Large Language Models, Multi-modal Models, and their appl
 Kaixiang Yao, Xu Wang, Miao Pan, Hu Xiyue, Weishi Wang, Daniel Dahlmeier, Jintao Chen, Yongliang Shen, Xuhong Zhang, **Wenqi Zhang**
 
 [![arXiv](https://img.shields.io/badge/arXiv-Paper-b31b1b.svg)](https://arxiv.org/abs/2609.23038)
-[![Github](https://img.shields.io/badge/Github-Code-181717.svg)](https://github.com/ZJU-OmniAI/Spatial-Interactor)
+{% include github-stars.html repo="ZJU-OmniAI/Spatial-Interactor" url="https://github.com/ZJU-OmniAI/Spatial-Interactor" label="Stars" %}
 [![Pages](https://img.shields.io/badge/Project-Page-0F88EB.svg)](https://zju-omniai.github.io/Spatial-Interactor/)
-[![Huggingface](https://img.shields.io/badge/HuggingFace-Models_and_Data-orange.svg)](https://huggingface.co/collections/kagakouko/spatial-interactor)
+{% include hf-downloads.html key="spatial-models" %}
+{% include hf-downloads.html key="spatial-data" %}
 [![X](https://img.shields.io/badge/X-Post-181717.svg)](https://x.com/spicysweet1859/status/2103547468487229515)
 [![小红书](https://img.shields.io/badge/小红书-Article-007bff.svg)](https://www.xiaohongshu.com/search_result/6ab6b81d000000001303ea4f?xsec_token=ABfj0cTt3x24aofkoBmrkjGWKa7FlAmxuJUUpi0Iv8BjU=&xsec_source=)
 
@@ -88,9 +90,9 @@ Kaixiang Yao, Xu Wang, Miao Pan, Hu Xiyue, Weishi Wang, Daniel Dahlmeier, Jintao
 Lizhou Liang, Xinyu Zhong, Miao Pan, Xiaohe Zhou, Xuanyu Liu, Qinfeng Li, Peng Li, Jintao Chen, Xuhong Zhang, **Wenqi Zhang**
 
 [![arXiv](https://img.shields.io/badge/arXiv-Paper-b31b1b.svg)](https://arxiv.org/abs/2609.28236)
-[![Github](https://img.shields.io/badge/Github-Code-181717.svg)](https://github.com/ZJU-OmniAI/Embodied-Omni/tree/main/embodied_memory)
+{% include github-stars.html repo="ZJU-OmniAI/Embodied-Omni" url="https://github.com/ZJU-OmniAI/Embodied-Omni/tree/main/embodied_memory" label="Embodied-Omni Stars" %}
 [![Pages](https://img.shields.io/badge/Project-Page-0F88EB.svg)](https://zju-omniai.github.io/Embodied-Omni/EmbodiedMemoryBench/)
-[![Huggingface](https://img.shields.io/badge/HuggingFace-Dataset-orange.svg)](https://huggingface.co/datasets/lzLiang/EmbodiedMemoryBench)
+{% include hf-downloads.html key="memory-data" %}
 [![X](https://img.shields.io/badge/X-Post-181717.svg)](https://x.com/spicysweet1859/status/2105154714388328877)
 [![小红书](https://img.shields.io/badge/小红书-Article-007bff.svg)](https://www.xiaohongshu.com/search_result/6abb33300000000018010bea?xsec_token=ABgWkBUjk6j4GFiLmjyQS_IuVTkSgo3kSOGly4VDuyOnc=&xsec_source=)
 
@@ -108,9 +110,9 @@ Lizhou Liang, Xinyu Zhong, Miao Pan, Xiaohe Zhou, Xuanyu Liu, Qinfeng Li, Peng L
 Hongyan Feng, Sunlai Chen, Xuanyu Liu, Miao Pan, Yangfan Xie, Yuxiang Cui, Zhongxiang Zhou, Rong Xiong, **Wenqi Zhang**, Jianwei Yin, Yueting Zhuang, Xuhong Zhang
 
 [![arXiv](https://img.shields.io/badge/arXiv-Paper-b31b1b.svg)](https://arxiv.org/abs/2608.17512)
-[![Github](https://img.shields.io/badge/Github-Code-181717.svg)](https://github.com/ZJU-OmniAI/Embodied-Omni/tree/main/embodied_navigator)
+{% include github-stars.html repo="ZJU-OmniAI/Embodied-Omni" url="https://github.com/ZJU-OmniAI/Embodied-Omni/tree/main/embodied_navigator" label="Embodied-Omni Stars" %}
 [![Pages](https://img.shields.io/badge/Project-Page-0F88EB.svg)](https://zju-omniai.github.io/Embodied-Navigator/)
-[![Huggingface](https://img.shields.io/badge/HuggingFace-Model-orange.svg)](https://huggingface.co/UnderTides/Embodied-Navigator-7B-GRPO)
+{% include hf-downloads.html key="navigator-model" %}
 {% include media-link.html name="智猩猩" logo="zhixingxing.png" url="https://mp.weixin.qq.com/s/jATgUDfUanh0jZZh71q48A" wordmark=true %}
 [![小红书](https://img.shields.io/badge/小红书-Article-007bff.svg)](https://www.xiaohongshu.com/user/profile/60edb5190000000001006e9f/6a88a299000000003800097d?xsec_token=ABDsqSF5Ky_czTURhdwASwhnykPT927ePIt-EeaN82qjQ%3D&xsec_source=pc_user)
 
@@ -128,7 +130,7 @@ Hongyan Feng, Sunlai Chen, Xuanyu Liu, Miao Pan, Yangfan Xie, Yuxiang Cui, Zhong
 Yi Pan, Miao Pan, Qi Lu, Jiaming Huang, Man Zhang, Siteng Huang, Xin Li, Jie Zhang, Yongliang Shen, Xuhong Zhang, **Wenqi Zhang**
 
 [![arXiv](https://img.shields.io/badge/arXiv-Paper-b31b1b.svg)](https://arxiv.org/abs/2607.01804)
-[![Github](https://img.shields.io/badge/Github-Code-181717.svg)](https://github.com/ZJU-OmniAI/vla-corrector)
+{% include github-stars.html repo="ZJU-OmniAI/vla-corrector" url="https://github.com/ZJU-OmniAI/vla-corrector" label="Stars" %}
 [![Pages](https://img.shields.io/badge/Project-Page-0F88EB.svg)](https://zju-omniai.github.io/vla-corrector/)
 {% include media-link.html name="机器之心" logo="synced.jpg" url="https://mp.weixin.qq.com/s/rfSPbtc2_fRpggXeBPPC3Q" %}
 {% include media-link.html name="具身智能之心TechDaily" logo="techdaily.webp" url="https://mp.weixin.qq.com/s?__biz=MzkyMDY0OTc1NA==&mid=2247540637&idx=1&sn=0f177736092e21a930e0d9dc40a2a583&chksm=c093b9a1a2fe4236d9240ee5817dc7758f3725d564d87936e8f0ab95ce63509a83c22b85b3d7#rd" %}
@@ -148,9 +150,9 @@ Yi Pan, Miao Pan, Qi Lu, Jiaming Huang, Man Zhang, Siteng Huang, Xin Li, Jie Zha
 Xu Wang, Kaixiang Yao, Miao Pan, Xiaohe Zhou, Xuanyu Liu, **Wenqi Zhang**, Xuhong Zhang
 
 [![arXiv](https://img.shields.io/badge/arXiv-Paper-b31b1b.svg)](https://arxiv.org/abs/2607.21072)
-[![Github](https://img.shields.io/badge/Github-Code-181717.svg)](https://github.com/ZJU-OmniAI/ProVisE)
+{% include github-stars.html repo="ZJU-OmniAI/ProVisE" url="https://github.com/ZJU-OmniAI/ProVisE" label="Stars" %}
 [![Pages](https://img.shields.io/badge/Project-Page-0F88EB.svg)](https://zju-omniai.github.io/ProVisE/)
-[![Huggingface](https://img.shields.io/badge/HuggingFace-Dataset-orange.svg)](https://huggingface.co/datasets/wx91726/SpatialGen-Bench)
+{% include hf-downloads.html key="provise-data" %}
 {% include media-link.html name="机器之心" logo="synced.jpg" url="https://www.jiqizhixin.com/articles/2026-08-08-4" %}
 [![X](https://img.shields.io/badge/X-Post-181717.svg)](https://x.com/spicysweet1859/status/2080675405263155431)
 [![小红书](https://img.shields.io/badge/小红书-Article-007bff.svg)](https://www.xiaohongshu.com/user/profile/60edb5190000000001006e9f/6a62f47d0000000009035294?xsec_token=ABew8j_nBLxOEwDgaKzGv_jxdZxlgEK8LPqbWbu67UeJg%3D&xsec_source=pc_user)
@@ -170,7 +172,7 @@ Wangjie Gan, Miao Pan, Linbo Xi, **Wenqi Zhang**, Jintao Chen, Jianwei Yin, Xuho
 
 [![ACL 2026](https://img.shields.io/badge/ACL_2026-Paper-b31b1b.svg)](https://aclanthology.org/2026.findings-acl.1444/)
 [![arXiv](https://img.shields.io/badge/arXiv-Paper-b31b1b.svg)](https://arxiv.org/abs/2604.14258)
-[![Github](https://img.shields.io/badge/Github-Code-181717.svg)](https://github.com/ZJU-OmniAI/GFT)
+{% include github-stars.html repo="ZJU-OmniAI/GFT" url="https://github.com/ZJU-OmniAI/GFT" label="Stars" %}
 {% include media-link.html name="青稞AI" logo="qingke.png" url="https://mp.weixin.qq.com/s/npZq21S-gWY75yxbZeSEpQ" %}
 [![小红书](https://img.shields.io/badge/小红书-Article-007bff.svg)](https://www.xiaohongshu.com/search_result/6a0ae3b3000000003703600b?xsec_token=AB3qESLh3jg-uJjq22_VeKyX-ZbxAQptAa0GHeEXfFpx4=&xsec_source=)
 
@@ -189,8 +191,8 @@ Wangjie Gan, Miao Pan, Linbo Xi, **Wenqi Zhang**, Jintao Chen, Jianwei Yin, Xuho
 **Wenqi Zhang**, Hang Zhang, Xin Li, Jiashuo Sun, Yongliang Shen, Weiming Lu, Deli Zhao, Yueting Zhuang, Lidong Bing
 
 [![arXiv](https://img.shields.io/badge/arXiv-Paper-b31b1b.svg)](https://www.arxiv.org/abs/2501.00958) 
-[![Github](https://img.shields.io/github/stars/DAMO-NLP-SG/multimodal_textbook?style=social&label=stars)](https://github.com/DAMO-NLP-SG/multimodal_textbook)
-[![Huggingface](https://img.shields.io/badge/HuggingFace-Datasets-orange.svg)](https://huggingface.co/datasets/DAMO-NLP-SG/multimodal_textbook)
+{% include github-stars.html repo="DAMO-NLP-SG/multimodal_textbook" url="https://github.com/DAMO-NLP-SG/multimodal_textbook" label="Stars" %}
+{% include hf-downloads.html key="textbook-data" %}
 [![Pages](https://img.shields.io/badge/Project-Page-0F88EB.svg)](https://multimodal-interleaved-textbook.github.io/)
 [![知乎](https://img.shields.io/badge/知乎-Article-007bff.svg)](https://zhuanlan.zhihu.com/p/16512014215)
 [![X](https://img.shields.io/badge/X-Post-181717.svg)](https://x.com/spicysweet1859/status/1875075137936232690)
@@ -214,8 +216,8 @@ Wangjie Gan, Miao Pan, Linbo Xi, **Wenqi Zhang**, Jintao Chen, Jianwei Yin, Xuho
 
 [![ACL 2026](https://img.shields.io/badge/ACL_2026-Paper-b31b1b.svg)](https://aclanthology.org/2026.acl-long.1910/)
 [![arXiv](https://img.shields.io/badge/arXiv-Paper-b31b1b.svg)](https://arxiv.org/abs/2503.21696) 
-[![Github](https://img.shields.io/github/stars/ZJU-OmniAI/Embodied-Omni?style=social&label=stars)](https://github.com/ZJU-OmniAI/Embodied-Omni/tree/main/embodied_reasoner)
-[![Huggingface](https://img.shields.io/badge/HuggingFace-Datasets-orange.svg)](https://huggingface.co/datasets/zwq2018/embodied_reasoner)
+{% include github-stars.html repo="ZJU-OmniAI/Embodied-Omni" url="https://github.com/ZJU-OmniAI/Embodied-Omni/tree/main/embodied_reasoner" label="Embodied-Omni Stars" %}
+{% include hf-downloads.html key="reasoner-data" %}
 [![Pages](https://img.shields.io/badge/Project-Page-0F88EB.svg)](https://embodied-reasoner.github.io/)
 [![B站视频](https://img.shields.io/badge/B%E7%AB%99-%E8%A7%86%E9%A2%91-ff69b4.svg)](https://www.bilibili.com/video/BV1Cs7Hz4ETk?t=28.7)
 {% include media-link.html name="机器之心" logo="synced.jpg" url="https://www.sohu.com/a/889469911_129720" %}
@@ -242,14 +244,13 @@ Wangjie Gan, Miao Pan, Linbo Xi, **Wenqi Zhang**, Jintao Chen, Jianwei Yin, Xuho
 **Wenqi Zhang**, Yongliang Shen, Weiming Lu, Yueting Zhuang
 
 [![arXiv](https://img.shields.io/badge/arXiv-Paper-b31b1b.svg)](https://arxiv.org/abs/2306.07209) 
-[![Github](https://img.shields.io/github/stars/zwq2018/data-copilot?style=social&label=stars)](https://github.com/zwq2018/Data-Copilot)
+{% include github-stars.html repo="ZJU-OmniAI/Data-Copilot" url="https://github.com/ZJU-OmniAI/Data-Copilot" label="Stars" %}
 [![Hugginface Spaces](https://img.shields.io/badge/%F0%9F%A4%97-Open%20in%20Spaces-blue)](https://huggingface.co/spaces/zwq2018/Data-Copilot)
 [![知乎](https://img.shields.io/badge/知乎-Video-0F88EB.svg)](https://zhuanlan.zhihu.com/p/636906119)
 {% include media-link.html name="机器之心" logo="synced.jpg" url="https://www.jiqizhixin.com/articles/2023-06-26-2" %}
 - LLM-powered autonomous data analysis agent   
 - Automated data querying, analysis, and visualization   
 - Enterprise-level scenario  
-- Over 1.4k stars on Github
 </div>
 </div>
 
@@ -262,9 +263,9 @@ Wangjie Gan, Miao Pan, Linbo Xi, **Wenqi Zhang**, Jintao Chen, Jianwei Yin, Xuho
 **Wenqi Zhang**, Zhenglin Cheng, Yuanyu He, Mengna Wang, Yongliang Shen, Zeqi Tan, Guiyang Hou, Mingqian He, Yanna Ma, Weiming Lu, Yueting Zhuang
 
 [![arXiv](https://img.shields.io/badge/arXiv-Paper-b31b1b.svg)](https://arxiv.org/abs/2407.07053) 
-[![Github](https://img.shields.io/github/stars/zwq2018/multi-modal-self-instruct?style=social)](https://github.com/zwq2018/Multi-modal-Self-instruct)
+{% include github-stars.html repo="zwq2018/Multi-modal-Self-instruct" url="https://github.com/zwq2018/Multi-modal-Self-instruct" label="Stars" %}
 [![Project](https://img.shields.io/badge/Project-Website-blue.svg)](https://multi-modal-self-instruct.github.io)
-[![Huggingface](https://img.shields.io/badge/HuggingFace-Datasets-orange.svg)](https://huggingface.co/datasets/zwq2018/Multi-modal-Self-instruct)
+{% include hf-downloads.html key="self-instruct-data" %}
 {% include media-link.html name="新智元" logo="xinzhiyuan.png" url="https://www.thepaper.cn/newsDetail_forward_28346662" %}
 [![X](https://img.shields.io/badge/X-Post-181717.svg)](https://x.com/spicysweet1859/status/1810888293833449725)
 [![AITime](https://img.shields.io/badge/AITime-Video-ff69b4.svg)](https://www.bilibili.com/video/BV1JuSqYKEnH/)
@@ -272,7 +273,6 @@ Wangjie Gan, Miao Pan, Linbo Xi, **Wenqi Zhang**, Jintao Chen, Jianwei Yin, Xuho
 - Multimodal data engine
 - Synthetic massive abstract chart data   
 - Enhance the abstract image perception and reasoning ability of multimodal models
-- Over 13k downloads on Huggingface
 </div>
 </div>
 
@@ -304,7 +304,7 @@ Wangjie Gan, Miao Pan, Linbo Xi, **Wenqi Zhang**, Jintao Chen, Jianwei Yin, Xuho
 **Wenqi Zhang**, Ke Tang, Hai Wu, Mengna Wang, Yongliang Shen, Guiyang Hou, Zeqi Tan, Peng Li, Yueting Zhuang, Weiming Lu    
 
 [![arXiv](https://img.shields.io/badge/arXiv-Paper-b31b1b.svg)](https://arxiv.org/abs/2402.17574) 
-[![Github](https://img.shields.io/github/stars/zwq2018/Agent-Pro?style=social)](https://github.com/zwq2018/Agent-Pro) 
+{% include github-stars.html repo="ZJU-OmniAI/Agent-Pro" url="https://github.com/ZJU-OmniAI/Agent-Pro" label="Stars" %}
 {% include media-link.html name="量子位" logo="qbit-wordmark.png" url="https://www.qbitai.com/2024/03/127294.html" wordmark=true %}
 {% include media-link.html name="将门创投" logo="jiangmen.png" url="https://mp.weixin.qq.com/s/gD4pZc6pvX8f_62uiPJacg" wordmark=true %}
 - Self-evolving LLM agent
@@ -321,7 +321,7 @@ Wangjie Gan, Miao Pan, Linbo Xi, **Wenqi Zhang**, Jintao Chen, Jianwei Yin, Xuho
 **Wenqi Zhang**, Kai Zhao, Peng Li, Xiao Zhu, Yongliang Shen, Yanna Ma, Yingfeng Chen, Weiming Lu
 
 [![arXiv](https://img.shields.io/badge/arXiv-Paper-b31b1b.svg)](https://arxiv.org/abs/2207.11901) 
-[![Github](https://img.shields.io/github/stars/zwq2018/Robot_Navigation_RL?style=social)](https://github.com/zwq2018/Robot_Navigation_RL) 
+{% include github-stars.html repo="zwq2018/Robot_Navigation_RL" url="https://github.com/zwq2018/Robot_Navigation_RL" label="Stars" %}
 [![YouTube](https://img.shields.io/badge/YouTube-Video-FF0000.svg)](https://youtu.be/jD_7sCdMMWk) 
 [![Bilibili](https://img.shields.io/badge/Bilibili-Video-00A1D6.svg)](https://www.bilibili.com/video/BV13L411H7zr/?spm_id_from=333.788.recommend_more_video.-1&vd_source=818fc4816fcb6a1d8c82455cd7851b48) 
 - Autonomous navigation framework for robots
@@ -338,31 +338,31 @@ Wangjie Gan, Miao Pan, Linbo Xi, **Wenqi Zhang**, Jintao Chen, Jianwei Yin, Xuho
 Zesen Cheng, Sicong Leng, Hang Zhang, Yifei Xin, Xin Li, Guanzheng Chen, Yongxin Zhu, **Wenqi Zhang**, Ziyang Luo, Deli Zhao, Lidong Bing
 
 [![arXiv](https://img.shields.io/badge/arXiv-Paper-b31b1b.svg)](https://arxiv.org/pdf/2406.07476) 
-[![Github](https://img.shields.io/github/stars/DAMO-NLP-SG/VideoLLaMA2?style=social)](https://github.com/DAMO-NLP-SG/VideoLLaMA2) 
+{% include github-stars.html repo="DAMO-NLP-SG/VideoLLaMA2" url="https://github.com/DAMO-NLP-SG/VideoLLaMA2" label="Stars" %}
 [![hf_space](https://img.shields.io/badge/🤗-AV--Demo-9C276A.svg)](https://huggingface.co/spaces/lixin4ever/VideoLLaMA2-AV)
-[![hf_checkpoint](https://img.shields.io/badge/🤗-Checkpoints-9C276A.svg)](https://huggingface.co/collections/DAMO-NLP-SG/videollama-2-6669b6b6f0493188305c87ed)
+{% include hf-downloads.html key="videollama-models" %}
+{% include hf-downloads.html key="videollama-data" %}
 - Open-source Video-language model
-- Over 20k downloads on Huggingface
 </div>
 </div>
 
 - <span style="font-size:small; color:white; background-color:blue">`ACL 2025 Main`</span> [STaR-SQL: Self-Taught Reasoner for Text-to-SQL](https://aclanthology.org/2025.acl-long.1187/), Mingqian He, Yongliang Shen, **Wenqi Zhang**, Qiuying Peng, Jun Wang, Weiming Lu.
 
-- <span style="font-size:small; color:white; background-color:blue">`TASLP 2406`</span> [Specialized Mathematical Solving by a Step-by-Step Expression Chain Generation](https://ieeexplore.ieee.org/document/10552332), **Wenqi Zhang**, Yongliang Shen, Guiyang Hou, Kuangyi Wang, Weiming Lu. [![Github](https://img.shields.io/github/stars/zwq2018/Math-Reasoning-With-PLMs?style=social)](https://github.com/zwq2018/Math-Reasoning-With-PLMs)
+- <span style="font-size:small; color:white; background-color:blue">`TASLP 2406`</span> [Specialized Mathematical Solving by a Step-by-Step Expression Chain Generation](https://ieeexplore.ieee.org/document/10552332), **Wenqi Zhang**, Yongliang Shen, Guiyang Hou, Kuangyi Wang, Weiming Lu. {% include github-stars.html repo="zwq2018/Math-Reasoning-With-PLMs" url="https://github.com/zwq2018/Math-Reasoning-With-PLMs" label="Stars" %}
 
 - <span style="font-size:small; color:white; background-color:blue">`ACL 2024 Findings`</span> [TimeToM: Temporal Space is the Key to Unlocking the Door of Large Language Models](https://arxiv.org/pdf/2407.01455), Guiyang Hou, **Wenqi Zhang #**, Yongliang Shen, Linjuan Wu, Weiming Lu.
 
-- <span style="font-size:small; color:white; background-color:blue">`EMNLP 2023`</span> [An Expression Tree Decoding Strategy for Mathematical Equation Generation](https://arxiv.org/abs/2310.09619), **Wenqi Zhang**, Yongliang Shen, Qingpeng Nong, Zeqi Tan, Yanna Ma, Weiming Lu. [![Github](https://img.shields.io/github/stars/zwq2018/Math-Reasoning-With-PLMs?style=social)](https://github.com/zwq2018/Math-Reasoning-With-PLMs)
+- <span style="font-size:small; color:white; background-color:blue">`EMNLP 2023`</span> [An Expression Tree Decoding Strategy for Mathematical Equation Generation](https://arxiv.org/abs/2310.09619), **Wenqi Zhang**, Yongliang Shen, Qingpeng Nong, Zeqi Tan, Yanna Ma, Weiming Lu. {% include github-stars.html repo="zwq2018/Math-Reasoning-With-PLMs" url="https://github.com/zwq2018/Math-Reasoning-With-PLMs" label="Stars" %}
 
 
-- <span style="font-size:small; color:white; background-color:blue">`EMNLP 2022 Findings`</span>[Multi-View Reasoning: Consistent Contrastive Learning for Math Word Problem](https://arxiv.org/abs/2210.11694), **Wenqi Zhang**, Yongliang Shen, Yanna Ma, Xiaoxia Cheng, Zeqi Tan, Qingpeng Nong, Weiming Lu. [![Github](https://img.shields.io/github/stars/zwq2018/Math-Reasoning-With-PLMs?style=social)](https://github.com/zwq2018/Math-Reasoning-With-PLMs)
+- <span style="font-size:small; color:white; background-color:blue">`EMNLP 2022 Findings`</span>[Multi-View Reasoning: Consistent Contrastive Learning for Math Word Problem](https://arxiv.org/abs/2210.11694), **Wenqi Zhang**, Yongliang Shen, Yanna Ma, Xiaoxia Cheng, Zeqi Tan, Qingpeng Nong, Weiming Lu. {% include github-stars.html repo="zwq2018/Math-Reasoning-With-PLMs" url="https://github.com/zwq2018/Math-Reasoning-With-PLMs" label="Stars" %}
 
 - <span style="font-size:small; color:white; background-color:blue">`IROS 2021 Oral`</span> [Learning to Navigate in a VUCA Environment: Hierarchical Multi-expert Approach](https://arxiv.org/abs/2111.08364), **Wenqi Zhang**, Kai Zhao, Peng Li, Xiao Zhu, Faping Ye, Weijie Jiang, Huiqiao Fu, Tao Wang. [![YouTube](https://img.shields.io/badge/YouTube-Video-FF0000.svg)](https://www.youtube.com/watch?v=lAnW4QIWDoU) [![Bilibili](https://img.shields.io/badge/Bilibili-Video-00A1D6.svg)](https://www.bilibili.com/video/BV1E64y1z7vJ/?spm_id_from=333.999.0.0&vd_source=818fc4816fcb6a1d8c82455cd7851b48)
 
 
 - <span style="font-size:small; color:white; background-color:blue">`arxiv2410`</span> [Entering Real Social World! Benchmarking the Theory of Mind and Socialization Capabilities of LLMs from a First-person Perspective](https://arxiv.org/pdf/2410.06195), Guiyang Hou, **Wenqi Zhang**, Yongliang Shen, Zeqi Tan, Sihao Shen, Weiming Lu.
 
-- <span style="font-size:small; color:white; background-color:blue">`NIPS 2024`</span> [TaskBench: Benchmarking Large Language Models for Task Automation](https://arxiv.org/abs/2311.18760), Yongliang Shen, Kaitao Song, Xu Tan, **Wenqi Zhang**, Kan Ren, Siyu Yuan, Weiming Lu, Dongsheng Li, Yueting Zhuang. [![Github](https://img.shields.io/github/stars/microsoft/JARVIS?style=social)](https://github.com/microsoft/JARVIS)
+- <span style="font-size:small; color:white; background-color:blue">`NIPS 2024`</span> [TaskBench: Benchmarking Large Language Models for Task Automation](https://arxiv.org/abs/2311.18760), Yongliang Shen, Kaitao Song, Xu Tan, **Wenqi Zhang**, Kan Ren, Siyu Yuan, Weiming Lu, Dongsheng Li, Yueting Zhuang. {% include github-stars.html repo="microsoft/JARVIS" url="https://github.com/microsoft/JARVIS" label="Stars" %}
 
 - <span style="font-size:small; color:white; background-color:blue">`EMNLP 2024 Main`</span> [Advancing Process Verification for Large Language Models via Tree-Based Preference Learning](https://arxiv.org/pdf/2407.00390), Mingqian He, Yongliang Shen, **Wenqi Zhang**, Zeqi Tan, Weiming Lu.
 
