@@ -1,0 +1,67 @@
+{
+  "DAMO-NLP-SG/VideoLLaMA2": {
+    "stars": 1307,
+    "display_stars": "1,307",
+    "checked_at": "2026-10-03T20:10:08+00:00"
+  },
+  "DAMO-NLP-SG/multimodal_textbook": {
+    "stars": 197,
+    "display_stars": "197",
+    "checked_at": "2026-10-03T20:10:08+00:00"
+  },
+  "ZJU-OmniAI/Embodied-Omni": {
+    "stars": 249,
+    "display_stars": "249",
+    "checked_at": "2026-10-03T20:10:08+00:00"
+  },
+  "ZJU-OmniAI/GFT": {
+    "stars": 36,
+    "display_stars": "36",
+    "checked_at": "2026-10-03T20:10:08+00:00"
+  },
+  "ZJU-OmniAI/ProVisE": {
+    "stars": 25,
+    "display_stars": "25",
+    "checked_at": "2026-10-03T20:10:08+00:00"
+  },
+  "ZJU-OmniAI/Spatial-Interactor": {
+    "stars": 83,
+    "display_stars": "83",
+    "checked_at": "2026-10-03T20:10:08+00:00"
+  },
+  "ZJU-OmniAI/vla-corrector": {
+    "stars": 89,
+    "display_stars": "89",
+    "checked_at": "2026-10-03T20:10:08+00:00"
+  },
+  "microsoft/JARVIS": {
+    "stars": 25379,
+    "display_stars": "25,379",
+    "checked_at": "2026-10-03T20:10:08+00:00"
+  },
+  "ZJU-OmniAI/Agent-Pro": {
+    "stars": 134,
+    "display_stars": "134",
+    "checked_at": "2026-10-03T20:10:08+00:00"
+  },
+  "ZJU-OmniAI/Data-Copilot": {
+    "stars": 1512,
+    "display_stars": "1,512",
+    "checked_at": "2026-10-03T20:10:08+00:00"
+  },
+  "zwq2018/Math-Reasoning-With-PLMs": {
+    "stars": 218,
+    "display_stars": "218",
+    "checked_at": "2026-10-03T20:10:08+00:00"
+  },
+  "zwq2018/Multi-modal-Self-instruct": {
+    "stars": 85,
+    "display_stars": "85",
+    "checked_at": "2026-10-03T20:10:08+00:00"
+  },
+  "zwq2018/Robot_Navigation_RL": {
+    "stars": 46,
+    "display_stars": "46",
+    "checked_at": "2026-10-03T20:10:08+00:00"
+  }
+}

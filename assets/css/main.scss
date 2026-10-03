@@ -126,6 +126,32 @@
     }
 }
 
+.hf-downloads,
+.project-stars {
+    display: inline-flex;
+    margin: 2px 3px 2px 0;
+    border-radius: 3px;
+    overflow: hidden;
+    vertical-align: middle;
+    white-space: nowrap;
+    color: #fff;
+    font: 11px/20px Verdana, sans-serif;
+    text-decoration: none;
+
+    span { padding: 0 5px; }
+    .hf-downloads-label { background: #555; }
+    .hf-downloads-value { background: #a9530b; }
+    &:focus-visible { outline: 2px solid #00369f; outline-offset: 2px; }
+}
+
+.project-stars {
+    color: #333;
+    border: 1px solid #ccc;
+    line-height: 18px;
+    background: #fafafa;
+    .project-stars-value { border-left: 1px solid #ccc; background: #fff; }
+}
+
 $scroll_offset : 2em;
 h1:before, .anchor:before { 
     content: ''; 

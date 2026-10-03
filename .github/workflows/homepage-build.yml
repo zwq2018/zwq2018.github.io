@@ -12,6 +12,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      - name: Check download aggregation and unavailable data handling
+        run: node --test tests/hf-metrics.test.cjs
       - uses: ruby/setup-ruby@v1
         with:
           ruby-version: '3.1'
@@ -26,6 +28,7 @@ jobs:
           test -f _site/archive/index.html
           test -s _site/assets/css/main.css
           test -s _site/assets/js/main.min.js
+          test -s _site/assets/js/project-metrics.js
           test -f _site/about/index.html
       - name: Keep rendered pages for preview
         uses: actions/upload-artifact@v4
@@ -38,3 +41,4 @@ jobs:
             _site/about/index.html
             _site/about.html
             _site/assets/css/main.css
+            _site/assets/js/project-metrics.js

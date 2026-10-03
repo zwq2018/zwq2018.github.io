@@ -1,0 +1,125 @@
+{
+  "spatial-models": {
+    "kind": "model",
+    "url": "https://huggingface.co/collections/kagakouko/spatial-interactor",
+    "label": "Model downloads",
+    "collection": "kagakouko/spatial-interactor",
+    "repos": [
+      "kagakouko/Spatial-Interactor-Qwen2.5-VL-3B",
+      "kagakouko/Spatial-Interactor-Qwen2.5-VL-7B",
+      "kagakouko/Spatial-Interactor-Qwen3-VL-4B",
+      "kagakouko/Spatial-Interactor-Qwen3-VL-8B"
+    ],
+    "downloads_total": 644,
+    "display_total": "644",
+    "checked_at": "2026-10-03T20:06:28+00:00"
+  },
+  "spatial-data": {
+    "kind": "dataset",
+    "url": "https://huggingface.co/datasets/kagakouko/LSI-108K",
+    "label": "Dataset downloads",
+    "repos": [
+      "kagakouko/LSI-108K"
+    ],
+    "downloads_total": 1068,
+    "display_total": "1,068",
+    "checked_at": "2026-10-03T20:06:29+00:00"
+  },
+  "memory-data": {
+    "kind": "dataset",
+    "url": "https://huggingface.co/datasets/lzLiang/EmbodiedMemoryBench",
+    "label": "Dataset downloads",
+    "repos": [
+      "lzLiang/EmbodiedMemoryBench"
+    ],
+    "downloads_total": 1760,
+    "display_total": "1,760",
+    "checked_at": "2026-10-03T20:06:30+00:00"
+  },
+  "navigator-model": {
+    "kind": "model",
+    "url": "https://huggingface.co/UnderTides/Embodied-Navigator-7B-GRPO",
+    "label": "Model downloads",
+    "repos": [
+      "UnderTides/Embodied-Navigator-7B-GRPO"
+    ],
+    "downloads_total": 79,
+    "display_total": "79",
+    "checked_at": "2026-10-03T20:06:30+00:00"
+  },
+  "provise-data": {
+    "kind": "dataset",
+    "url": "https://huggingface.co/datasets/wx91726/SpatialGen-Bench",
+    "label": "Dataset downloads",
+    "repos": [
+      "wx91726/SpatialGen-Bench"
+    ],
+    "downloads_total": 1643,
+    "display_total": "1,643",
+    "checked_at": "2026-10-03T20:06:31+00:00"
+  },
+  "textbook-data": {
+    "kind": "dataset",
+    "url": "https://huggingface.co/datasets/DAMO-NLP-SG/multimodal_textbook",
+    "label": "Dataset downloads",
+    "repos": [
+      "DAMO-NLP-SG/multimodal_textbook"
+    ],
+    "downloads_total": 61714,
+    "display_total": "61,714",
+    "checked_at": "2026-10-03T20:06:31+00:00"
+  },
+  "reasoner-data": {
+    "kind": "dataset",
+    "url": "https://huggingface.co/datasets/zwq2018/embodied_reasoner",
+    "label": "Dataset downloads",
+    "repos": [
+      "zwq2018/embodied_reasoner"
+    ],
+    "downloads_total": 17708,
+    "display_total": "17,708",
+    "checked_at": "2026-10-03T20:06:32+00:00"
+  },
+  "self-instruct-data": {
+    "kind": "dataset",
+    "url": "https://huggingface.co/datasets/zwq2018/Multi-modal-Self-instruct",
+    "label": "Dataset downloads",
+    "repos": [
+      "zwq2018/Multi-modal-Self-instruct"
+    ],
+    "downloads_total": 13358,
+    "display_total": "13,358",
+    "checked_at": "2026-10-03T20:06:33+00:00"
+  },
+  "videollama-models": {
+    "kind": "model",
+    "url": "https://huggingface.co/collections/DAMO-NLP-SG/videollama2-6669b6b6f0493188305c87ed",
+    "label": "Model downloads",
+    "collection": "DAMO-NLP-SG/videollama2-6669b6b6f0493188305c87ed",
+    "repos": [
+      "DAMO-NLP-SG/VideoLLaMA2-72B",
+      "DAMO-NLP-SG/VideoLLaMA2-72B-Base",
+      "DAMO-NLP-SG/VideoLLaMA2-7B",
+      "DAMO-NLP-SG/VideoLLaMA2-7B-16F",
+      "DAMO-NLP-SG/VideoLLaMA2-7B-16F-Base",
+      "DAMO-NLP-SG/VideoLLaMA2-7B-Base",
+      "DAMO-NLP-SG/VideoLLaMA2.1-7B-16F",
+      "DAMO-NLP-SG/VideoLLaMA2.1-7B-16F-Base",
+      "DAMO-NLP-SG/VideoLLaMA2.1-7B-AV"
+    ],
+    "downloads_total": 583504,
+    "display_total": "583,504",
+    "checked_at": "2026-10-03T20:06:38+00:00"
+  },
+  "videollama-data": {
+    "kind": "dataset",
+    "url": "https://huggingface.co/datasets/DAMO-NLP-SG/Multi-Source-Video-Captioning",
+    "label": "Dataset downloads",
+    "repos": [
+      "DAMO-NLP-SG/Multi-Source-Video-Captioning"
+    ],
+    "downloads_total": 2142,
+    "display_total": "2,142",
+    "checked_at": "2026-10-03T20:06:39+00:00"
+  }
+}

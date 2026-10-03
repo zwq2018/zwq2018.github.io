@@ -21,7 +21,18 @@ This document records the public evidence used for the homepage content update. 
 - Describe a team project only when Wenqi Zhang appears in its paper's author list, or when a directly associated team repository supplies the relevant provenance. A fork or a starred repository alone does not establish authorship.
 - User-supplied screenshots are supplementary evidence for requested article titles and publishers. Real article/project URLs are the main references. Screenshots do not justify inventing a URL, date, acceptance, metric, or authorship claim.
 - Video URLs are taken from official project HTML or official repository README/source. Keep a visible project-page fallback, avoid automatic playback, and recheck the source when updating the page.
-- Live stars, downloads, rankings, and follower counts were deliberately excluded from the redesign. Any later use needs a date and a current source.
+- On 2026-10-04 the user explicitly requested GitHub stars and Hugging Face download counts. Use the platform metrics and scope described below; do not infer other popularity statistics.
+
+## Project popularity counters
+
+- All 17 existing GitHub resource links display repository star badges from the public GitHub repository API with a bundled verified fallback, covering 13 distinct repositories. Data-Copilot and Agent-Pro links use the canonical ZJU-OmniAI repositories verified through GitHub's API.
+- `_data/github_metrics.json` holds the verified GitHub fallback and timestamps. GitHub refreshes are lazy, deduplicated by repository and cached for one hour. A rate limit or unavailable API leaves the dated fallback visible. Numeric badge content is rendered as text instead of depending on an external badge-image service.
+- Navigator, Memory-Bench, and Reasoner link to subdirectories of the shared Embodied-Omni code repository. Their badges explicitly say **Embodied-Omni stars**; these are not separate project star counts.
+- Ten Hugging Face badges display **cumulative** downloads, visibly marked **Total**. The source is the official public model/dataset API's `downloadsAllTime` field, requested with `expand[]=downloadsAllTime`. The `downloads` field measures a different period and must not be substituted for the cumulative count. [Hub API documentation](https://huggingface.co/docs/hub/api), [model counting rules](https://huggingface.co/docs/hub/models-download-stats), [dataset counting rules](https://huggingface.co/docs/hub/datasets-download-stats).
+- Spatial-Interactor's model count sums the four model repositories in its official collection; VideoLLaMA2's count sums the nine model repositories in its official collection (including 2.1). Repository IDs are deduplicated. Their dataset counters link directly to LSI-108K and Multi-Source-Video-Captioning respectively. Collection membership is refreshed from the public collection API. Spaces, papers and datasets are excluded from model totals; counts are downloads, not unique users.
+- `_data/huggingface_metrics.json` stores verified fallback totals, repository lists and UTC timestamps. Refresh it with `python3 scripts/refresh_hf_metrics.py`. The script only writes after all sources succeed.
+- `_includes/hf-downloads.html` renders the fallback without JavaScript. `assets/js/project-metrics.js` refreshes counters near the viewport, limits requests to four at once, shares duplicate requests and caches successful counts locally for 24 hours. The tooltip contains the source date and aggregation scope. Failed requests, missing fields or incomplete collection totals leave the verified value and date intact; unavailable counts never become zero.
+- Hugging Face demo Spaces retain demo links without a fabricated download counter. Historical textbook release milestones stay as dated news; three undated static popularity bullets were replaced by the live resource counters.
 
 ## Publisher logo resources
 
