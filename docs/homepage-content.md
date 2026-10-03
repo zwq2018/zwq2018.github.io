@@ -4,6 +4,15 @@ Last checked: **2026-10-03** (Asia/Shanghai).
 
 This document records the public evidence used for the homepage redesign. It is a maintenance record, not additional copy to publish on the homepage. The homepage can use short project descriptions; bibliography entries should retain the exact paper titles below.
 
+## Homepage content organization
+
+- Each of the six featured projects appears once, with its demonstration, description, paper, code, and project-page links together.
+- Related media coverage and video talks are attached to the relevant project in a collapsed “Media & talks” disclosure. Multiple publishers covering one paper do not become separate project introductions.
+- The “More selected work” list contains only five additional works not featured in the demonstration cards: GFT, Multimodal Textbook, STaR-SQL, Multimodal Self-Instruct, and Data-Copilot. GFT coverage and the Self-Instruct talk are attached to their respective rows.
+- There is no separate media grid, repeated research-theme strip, or second research biography. Honors and service retain their dated records. Social profiles appear once in the profile card; the contact section contains the email.
+- The two Navigator publishers supplied in the screenshot have no verified article URLs. They remain publisher credits within its disclosure, with the supplied titles retained as tooltips. Add their original URLs when available.
+- The full academic archive remains available separately. Legacy `#media` links land at the consolidated research section.
+
 ## Evidence rules
 
 - Prefer the paper's official proceedings page for conference venue, title, and author order. Use arXiv for the first public submission date and preprint metadata.
