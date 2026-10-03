@@ -111,7 +111,7 @@ Hongyan Feng, Sunlai Chen, Xuanyu Liu, Miao Pan, Yangfan Xie, Yuxiang Cui, Zhong
 [![Github](https://img.shields.io/badge/Github-Code-181717.svg)](https://github.com/ZJU-OmniAI/Embodied-Omni/tree/main/embodied_navigator)
 [![Pages](https://img.shields.io/badge/Project-Page-0F88EB.svg)](https://zju-omniai.github.io/Embodied-Navigator/)
 [![Huggingface](https://img.shields.io/badge/HuggingFace-Model-orange.svg)](https://huggingface.co/UnderTides/Embodied-Navigator-7B-GRPO)
-[![微信公众号](https://img.shields.io/badge/微信公众号-Article-007bff.svg)](https://mp.weixin.qq.com/s/jATgUDfUanh0jZZh71q48A)
+{% include media-link.html name="智猩猩" logo="zhixingxing.png" url="https://mp.weixin.qq.com/s/jATgUDfUanh0jZZh71q48A" wordmark=true %}
 [![小红书](https://img.shields.io/badge/小红书-Article-007bff.svg)](https://www.xiaohongshu.com/user/profile/60edb5190000000001006e9f/6a88a299000000003800097d?xsec_token=ABDsqSF5Ky_czTURhdwASwhnykPT927ePIt-EeaN82qjQ%3D&xsec_source=pc_user)
 
 - Bridge visual grounding and 3D navigation through pixel pointing, selective reasoning, and Anchor-Trajectory Memory.

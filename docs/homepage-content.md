@@ -10,7 +10,7 @@ This document records the public evidence used for the homepage content update. 
 - Add Spatial-Interactor, EmbodiedMemory-Bench, Embodied-Navigator, VLA-Corrector, Show, Don't Tell / ProVisE, and GFT to the existing selected-publications list. Keep each project's full introduction in one entry, alongside its authors, demonstration or figure, paper, code, and project links.
 - Put media coverage badges beside the corresponding project resources. Multiple publishers covering one paper do not become separate project introductions or a new media grid. Update the existing Embodied-Reasoner entry rather than inserting a duplicate.
 - News is a short dated changelog that links to the corresponding publication entry. Retain the original older publications, honors, experience, invited talks, and services.
-- Navigator has one user-supplied WeChat article URL with its publisher still unconfirmed. Keep the neutral 微信公众号 label until its identity is established; the supplied screenshot titles remain in the source notes below.
+- Navigator's user-supplied WeChat article is from 智猩猩, as explicitly confirmed by the user on 2026-10-04. Display its official wordmark alongside the paper resources.
 - Keep X and the confirmed Xiaohongshu profile in the original author sidebar. The academic page again lives at `/`; `/about/`, `/about.html`, and the previous `/archive/` link redirect there.
 
 ## Evidence rules
@@ -25,7 +25,7 @@ This document records the public evidence used for the homepage content update. 
 
 ## Publisher logo resources
 
-On 2026-10-04 the user requested official media logos. Eleven existing article links now use eight publisher identities, rendered by `_includes/media-link.html`. The files in `images/media/` retain their source artwork and aspect ratio. CSS is scoped to these links within the existing publication text. Article destinations are unchanged.
+On 2026-10-04 the user requested official media logos and confirmed 智猩猩 as the Navigator article publisher. Twelve existing article links now use nine publisher identities, rendered by `_includes/media-link.html`. The files in `images/media/` retain their source artwork and aspect ratio. CSS is scoped to these links within the existing publication text. Article destinations are unchanged.
 
 | Publisher | Local asset | Brand source and verification |
 | --- | --- | --- |
@@ -37,8 +37,9 @@ On 2026-10-04 the user requested official media logos. Eleven existing article l
 | PaperWeekly | `paperweekly.jpg` | [WeChat account directory](https://m.wxnum.cn/paperweekly.html) identifies the `paperweekly` account and its [cached publisher logo](https://m.wxnum.cn/cover-ico/paperweekly.jpg). This is a mirrored account logo. |
 | 量子位 | `qbit-wordmark.png` | The [official site](https://www.qbitai.com/) references this [wordmark](https://www.qbitai.com/wp-content/themes/liangziwei/imgnew/logo.png) from its header CSS. |
 | 将门创投 | `jiangmen.png` | [Official site](http://www.thejiangmen.com/) embeds this [header logo](http://www.thejiangmen.com/img/Logo.png). |
+| 智猩猩 | `zhixingxing.png` | The [official site](https://course.zhidx.com/) uses this [header wordmark](https://oss.zhidx.com/gtic/24/09/66d6bc49187f0-20240903153523.png). The user explicitly confirmed the Navigator article's publisher on 2026-10-04. |
 
-The unidentified Navigator article keeps its existing neutral badge. Do not infer its publisher from the first suggested answer or substitute another organization's logo without confirmation.
+The Navigator publisher is established by the user's explicit reply, rather than by an inferred or preselected suggested answer.
 
 ## Identity and profile
 
@@ -244,13 +245,13 @@ Use these specific posts beside their corresponding paper resources, with the or
 
 The GFT and EmbodiedMemory-Bench Xiaohongshu reports are from AIGC 深一度 and VariX（厚肌薄发版） respectively. The badge names the platform, without implying that Wenqi Zhang wrote those two notes. Original signed Xiaohongshu URLs are preserved from successful reads; access is governed by the platform.
 
-### Requested media with links still to supply
+### Navigator media attribution and remaining link
 
-On 2026-10-03 the user supplied [this WeChat original link](https://mp.weixin.qq.com/s/jATgUDfUanh0jZZh71q48A) after the request for the two Embodied-Navigator links below. It is attached to Embodied-Navigator based on that conversation context, with the neutral badge label **微信公众号**. Direct HTML and Jina Reader returned a WeChat verification page; the title, publisher, and date have not been independently established. Do not assign the URL to either publisher without further evidence. The previous unlinked publisher credits were removed to avoid duplication.
+On 2026-10-03 the user supplied [this WeChat original link](https://mp.weixin.qq.com/s/jATgUDfUanh0jZZh71q48A) for Embodied-Navigator. On 2026-10-04 the user explicitly confirmed that its publisher is **智猩猩**. The link now displays the official 智猩猩 wordmark. Direct HTML and Jina Reader returned a WeChat verification page, so the publication date remains unverified.
 
-The screenshot confirms the following requested titles. One original URL has now been supplied, but which title it belongs to, and the other original URL, remain to be established. Preserve these as maintenance TODOs. Do not use a fabricated WeChat URL, a search-results URL, or an unrelated navigation article as a destination.
+The screenshot supplies the following requested titles. The 智猩猩 URL and publisher are now confirmed; the 视觉语言导航 article's original URL is still a maintenance TODO. Do not use a fabricated WeChat URL, a search-results URL, or an unrelated navigation article as a destination.
 
-1. **智猩猩社群** — “浙大&浙江人形提出高效具身导航模型，统一动作、思考、记忆与强化学习！” Associated project: Embodied-Navigator. Original URL and publication date: **pending**.
+1. **智猩猩社群** — “浙大&浙江人形提出高效具身导航模型，统一动作、思考、记忆与强化学习！” Associated project: Embodied-Navigator. [Original URL](https://mp.weixin.qq.com/s/jATgUDfUanh0jZZh71q48A), publisher confirmed by the user; publication date: **pending**.
 2. **视觉语言导航** — “点选-思考-记忆-对齐！Embodied-导航器：面向高效具身视觉语言导航统一框架”. Associated project: Embodied-Navigator. Original URL and publication date: **pending**.
 
 The separately verified January 2026 [visual-language-navigation invited talk](https://www.bilibili.com/video/BV149cjz5Es5/) in the Embodied-Omni README is not evidence for the second article's URL; do not substitute it.
