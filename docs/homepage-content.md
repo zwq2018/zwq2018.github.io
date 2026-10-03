@@ -120,6 +120,7 @@ Copy boundary: the VLM observes RGB; the complete system uses depth for pixel-to
 - [Official NeurIPS poster entry](https://neurips.cc/virtual/2026/poster/149247)
 - [Project](https://zju-omniai.github.io/vla-corrector/)
 - [Code and acceptance announcement](https://github.com/ZJU-OmniAI/vla-corrector)
+- [Homepage video selected by the user](https://github.com/user-attachments/assets/eb2b70f7-f8d9-4d18-b85a-7014949fde7b) — exact `<video src>` in the official repository README, read on 2026-10-03. A GET range request returned HTTP 206 and `video/mp4`. Replaces the drawer-only clip in the homepage player; the fallback links to the repository that embeds this same video.
 - [Drawer perturbation demo](https://zju-omniai.github.io/vla-corrector/assets/videos/drawer_alignment_perturbation.mp4)
 - [Blue bowl perturbation demo](https://zju-omniai.github.io/vla-corrector/assets/videos/block_to_blue_bowl_perturbation.mp4)
 - [White bowl perturbation demo](https://zju-omniai.github.io/vla-corrector/assets/videos/block_to_white_bowl_perturbation.mp4)
@@ -228,7 +229,9 @@ The GFT and EmbodiedMemory-Bench Xiaohongshu reports are from AIGC 深一度 and
 
 ### Requested media with links still to supply
 
-These two items are confirmed as requested by the user's screenshots, but an exact original URL was not located. Preserve them as maintenance TODOs. Do not use a fabricated WeChat URL, a search-results URL, or an unrelated navigation article as a destination.
+On 2026-10-03 the user supplied [this WeChat original link](https://mp.weixin.qq.com/s/jATgUDfUanh0jZZh71q48A) after the request for the two Embodied-Navigator links below. It is attached to Embodied-Navigator based on that conversation context, with the neutral badge label **微信公众号**. Direct HTML and Jina Reader returned a WeChat verification page; the title, publisher, and date have not been independently established. Do not assign the URL to either publisher without further evidence. The previous unlinked publisher credits were removed to avoid duplication.
+
+The screenshot confirms the following requested titles. One original URL has now been supplied, but which title it belongs to, and the other original URL, remain to be established. Preserve these as maintenance TODOs. Do not use a fabricated WeChat URL, a search-results URL, or an unrelated navigation article as a destination.
 
 1. **智猩猩社群** — “浙大&浙江人形提出高效具身导航模型，统一动作、思考、记忆与强化学习！” Associated project: Embodied-Navigator. Original URL and publication date: **pending**.
 2. **视觉语言导航** — “点选-思考-记忆-对齐！Embodied-导航器：面向高效具身视觉语言导航统一框架”. Associated project: Embodied-Navigator. Original URL and publication date: **pending**.

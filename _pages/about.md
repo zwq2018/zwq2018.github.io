@@ -111,18 +111,17 @@ Hongyan Feng, Sunlai Chen, Xuanyu Liu, Miao Pan, Yangfan Xie, Yuxiang Cui, Zhong
 [![Github](https://img.shields.io/badge/Github-Code-181717.svg)](https://github.com/ZJU-OmniAI/Embodied-Omni/tree/main/embodied_navigator)
 [![Pages](https://img.shields.io/badge/Project-Page-0F88EB.svg)](https://zju-omniai.github.io/Embodied-Navigator/)
 [![Huggingface](https://img.shields.io/badge/HuggingFace-Model-orange.svg)](https://huggingface.co/UnderTides/Embodied-Navigator-7B-GRPO)
+[![微信公众号](https://img.shields.io/badge/微信公众号-Article-007bff.svg)](https://mp.weixin.qq.com/s/jATgUDfUanh0jZZh71q48A)
 [![小红书](https://img.shields.io/badge/小红书-Article-007bff.svg)](https://www.xiaohongshu.com/user/profile/60edb5190000000001006e9f/6a88a299000000003800097d?xsec_token=ABDsqSF5Ky_czTURhdwASwhnykPT927ePIt-EeaN82qjQ%3D&xsec_source=pc_user)
 
 - Bridge visual grounding and 3D navigation through pixel pointing, selective reasoning, and Anchor-Trajectory Memory.
 - Align navigation decisions with Two-Level GRPO and demonstrate zero-shot deployment on a Unitree Go2 quadruped.
 
-Media coverage: 智猩猩社群 · 视觉语言导航.
-
 </div>
 </div>
 
 
-<div class='paper-box' id='vla-corrector'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026</div><video aria-label="VLA-Corrector demonstration" src="https://zju-omniai.github.io/vla-corrector/assets/videos/drawer_alignment_perturbation.mp4" poster="https://zju-omniai.github.io/vla-corrector/assets/images/teaser_open_loop_vs_closed_loop.webp" width="100%" controls playsinline preload="none"><a href="https://zju-omniai.github.io/vla-corrector/">Watch on the project page</a></video></div></div>
+<div class='paper-box' id='vla-corrector'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026</div><video aria-label="VLA-Corrector demonstration" src="https://github.com/user-attachments/assets/eb2b70f7-f8d9-4d18-b85a-7014949fde7b" poster="https://zju-omniai.github.io/vla-corrector/assets/images/teaser_open_loop_vs_closed_loop.webp" width="100%" controls playsinline preload="none"><a href="https://github.com/ZJU-OmniAI/vla-corrector">Watch in the official repository</a></video></div></div>
 <div class='paper-box-text' markdown="1">
 
 [VLA-Corrector: Lightweight Detect-and-Correct Inference for Adaptive Action Horizon](https://arxiv.org/abs/2607.01804)<br>
