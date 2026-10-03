@@ -1,0 +1,40 @@
+name: Homepage build
+
+on:
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.1'
+          bundler-cache: true
+      - name: Build with the existing GitHub Pages dependencies
+        run: bundle exec jekyll build --safe --trace
+        env:
+          JEKYLL_ENV: production
+      - name: Check the academic homepage and redirects
+        run: |
+          test -f _site/index.html
+          test -f _site/archive/index.html
+          test -s _site/assets/css/main.css
+          test -s _site/assets/js/main.min.js
+          test -f _site/about/index.html
+      - name: Keep rendered pages for preview
+        uses: actions/upload-artifact@v4
+        with:
+          name: homepage-rendered-pages
+          retention-days: 7
+          path: |
+            _site/index.html
+            _site/archive/index.html
+            _site/about/index.html
+            _site/about.html
+            _site/assets/css/main.css

@@ -7,7 +7,9 @@
 
 # Site Settings
 title                    : "Wenqi Zhang"
-description              : "zhangwenqi@zju.edu.cn"
+description              : "Wenqi Zhang · Embodied intelligence, spatial reasoning, multimodal learning and autonomous agents at Zhejiang University."
+url                      : "https://zwq2018.github.io"
+baseurl                  : ""
 repository               : "zwq2018/zwq2018.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -27,7 +29,7 @@ author:
   location         : "Hangzhou, China"
   employer         : 
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=C6Bmfw8AAAAJ&hl"
+  googlescholar    : "https://scholar.google.com/citations?user=C6Bmfw8AAAAJ&hl=en"
   email            : "zhangwenqi@zju.edu.cn"
   Wechat           : "17681825398"
   uri              :
@@ -52,6 +54,7 @@ author:
   steam            :
   tumblr           :
   twitter          : "spicysweet1859"
+  xiaohongshu      : "https://www.xiaohongshu.com/user/profile/60edb5190000000001006e9f"
   vine             :
   weibo            :
   xing             :
